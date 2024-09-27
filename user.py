@@ -2,6 +2,12 @@ import pandas as pd
 from langchain.prompts import PromptTemplate
 from langchain.chat_models import ChatOpenAI
 from langchain.schema import HumanMessage
+from dotenv import load_dotenv
+import os
+
+# Load the environment variables from the .env file
+load_dotenv()
+openai_api_key = os.getenv('OPENAI_API_KEY')
 
 # Function to calculate distance between two cities using GPT model with validation
 def gpt_city_distance(city1, city2, openai_api_key):
@@ -17,10 +23,10 @@ def gpt_city_distance(city1, city2, openai_api_key):
 
         # Initialize the ChatOpenAI model with the API key and other parameters
         chat_model = ChatOpenAI(
-            openai_api_key=openai_api_key,  # Your API Key
-            model="gpt-3.5-turbo",  # Model name
-            temperature=0,  # Optional: Controls randomness
-            max_retries=3  # Optional: Retry attempts for failed requests
+            openai_api_key=openai_api_key,  # API Key loaded from .env
+            model="gpt-3.5-turbo",
+            temperature=0,
+            max_retries=3
         )
 
         # Send the prompt to GPT and get the response
@@ -95,9 +101,6 @@ user_input = {
 
 # Sample DataFrame (Assuming a CSV file loaded with similar columns)
 df = pd.read_csv('user.csv')
-
-# OpenAI API key as an argument
-openai_api_key = "your_openai_api_key_here"
 
 # Calculate similarities for all users
 all_users_similarities = calculate_all_similarities(user_input, df, openai_api_key)
