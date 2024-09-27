@@ -1,0 +1,502 @@
+post_id,cuisine,dish_name,ingredients,veg_non_veg,no_of_likes,latitude,longitude,Sweetness,Sourness,Spice Level
+1,North-East,Masor Tenga,"Fresh fish, tomatoes, and herbs",Non-Veg,120,26.2006,92.9376,3,4,2
+2,Rajasthani,Dal Baati Churma,"Whole wheat flour, lentils, ghee, and spices",Veg,200,26.9124,75.7873,4,3,3
+3,Bengali,Shorshe Ilish,"Ilish fish, mustard paste, turmeric, and green chilies",Non-Veg,150,22.5726,88.3639,2,5,3
+4,Punjabi,Butter Chicken,"Chicken, butter, cream, and spices",Non-Veg,300,30.7333,76.7794,5,2,4
+5,South Indian,Dosa,"Rice, lentils, fermented batter",Veg,250,12.9716,77.5946,3,1,2
+6,Continental,Spaghetti Aglio e Olio,"Spaghetti, garlic, olive oil, and chili flakes",Veg,180,48.8566,2.3522,2,2,3
+7,North Indian,Biriyani,"Basmati rice, chicken, spices, and saffron",Non-Veg,400,28.6139,77.2090,4,2,5
+8,Chinese,Chow Mein,"Noodles, vegetables, soy sauce, and chili oil",Veg,220,39.9042,116.4074,3,3,4
+9,Gujarati,Dhokla,"Gram flour, yogurt, Eno, and spices",Veg,170,22.2587,71.1924,4,1,1
+10,North-East,Pitha,"Rice flour, coconut, and jaggery",Veg,90,26.2006,92.9376,5,3,1
+11,North-East,Alu Pitika,"Mashed potatoes, mustard oil, green chilies, onions",Veg,110,26.2006,92.9376,3,2,1
+12,Rajasthani,Ker Sangri,"Ker berries, sangri, spices, ghee",Veg,90,26.9124,75.7873,2,1,3
+13,Bengali,Chingri Malai Curry,"Prawns, coconut milk, turmeric, spices",Non-Veg,180,22.5726,88.3639,3,5,4
+14,Punjabi,Chole Bhature,"Chickpeas, flour, yogurt, spices",Veg,210,30.7333,76.7794,4,2,3
+15,South Indian,Idli,"Rice, lentils, fermentation, salt",Veg,250,12.9716,77.5946,1,1,1
+16,Continental,Grilled Cheese Sandwich,"Bread, cheese, butter",Veg,130,48.8566,2.3522,3,1,1
+17,North Indian,Palak Paneer,"Spinach, paneer, spices, cream",Veg,260,28.6139,77.2090,4,1,2
+18,Chinese,Sweet and Sour Chicken,"Chicken, bell peppers, pineapple, vinegar",Non-Veg,170,39.9042,116.4074,4,4,3
+19,Gujarati,Undhiyu,"Mixed vegetables, spices, fenugreek",Veg,100,22.2587,71.1924,5,2,2
+20,North-East,Thukpa,"Noodles, vegetables, meat, spices",Non-Veg,220,26.2006,92.9376,2,3,4
+21,Rajasthani,Gatte Ki Sabzi,"Gram flour dumplings, yogurt, spices",Veg,180,26.9124,75.7873,3,2,3
+22,Bengali,Alu Bhorta,"Mashed potatoes, mustard oil, onions",Veg,160,22.5726,88.3639,4,1,1
+23,Punjabi,Lassi,"Yogurt, sugar, water, cardamom",Veg,140,30.7333,76.7794,5,2,1
+24,South Indian,Hyderabadi Biryani,"Basmati rice, meat, saffron, spices",Non-Veg,320,12.9716,77.5946,4,3,5
+25,Continental,Caeser Salad,"Lettuce, croutons, cheese, dressing",Veg,160,48.8566,2.3522,2,1,1
+26,North Indian,Dal Makhani,"Black lentils, cream, spices",Veg,230,28.6139,77.2090,4,2,3
+27,Chinese,Fried Rice,"Rice, vegetables, soy sauce, eggs",Veg,200,39.9042,116.4074,3,2,3
+28,Gujarati,Khichdi,"Rice, lentils, ghee, spices",Veg,180,22.2587,71.1924,3,1,2
+29,North-East,Shapale,"Meat, spices, dough",Non-Veg,110,26.2006,92.9376,2,3,4
+30,Rajasthani,Laal Maas,"Mutton, red chilies, yogurt, spices",Non-Veg,250,26.9124,75.7873,3,4,5
+31,Bengali,Pati Shapta,"Rice flour, coconut, jaggery",Veg,130,22.5726,88.3639,4,3,1
+32,Punjabi,Saag Paneer,"Spinach, paneer, spices",Veg,240,30.7333,76.7794,4,2,3
+33,South Indian,Rasam,"Tomatoes, tamarind, spices, lentils",Veg,190,12.9716,77.5946,2,5,3
+34,Continental,Brownie,"Chocolate, flour, sugar, butter",Veg,250,48.8566,2.3522,5,1,2
+35,North Indian,Paneer Tikka,"Paneer, spices, yogurt, bell peppers",Veg,210,28.6139,77.2090,4,2,3
+36,Chinese,Manchurian,"Vegetables, soy sauce, spices",Veg,200,39.9042,116.4074,3,2,4
+37,Gujarati,Dhokli Rasam,"Wheat flour, spices, lentils",Veg,170,22.2587,71.1924,3,3,2
+38,North-East,Momos,"Dough, meat, vegetables, spices",Non-Veg,300,26.2006,92.9376,2,4,5
+39,Rajasthani,Ghevar,"Flour, ghee, sugar syrup",Veg,130,26.9124,75.7873,5,1,1
+40,Bengali,Cholar Dal,"Chana dal, coconut, spices",Veg,180,22.5726,88.3639,4,2,2
+41,Punjabi,Paneer Butter Masala,"Paneer, butter, cream, spices",Veg,280,30.7333,76.7794,5,1,4
+42,South Indian,Vada,"Lentils, spices, curry leaves",Veg,160,12.9716,77.5946,3,2,2
+43,Continental,Lasagna,"Pasta, cheese, meat, tomato sauce",Non-Veg,350,48.8566,2.3522,4,2,5
+44,North Indian,Aloo Gobi,"Potatoes, cauliflower, spices",Veg,200,28.6139,77.2090,3,1,3
+45,Chinese,Hot and Sour Soup,"Tofu, mushrooms, spices, vinegar",Veg,190,39.9042,116.4074,2,4,4
+46,Gujarati,Patra,"Colocasia leaves, gram flour, spices",Veg,160,22.2587,71.1924,4,1,3
+47,North-East,Masala Fish,"Fish, spices, coconut oil",Non-Veg,150,26.2006,92.9376,2,4,5
+48,Rajasthani,Bajra Khichdi,"Bajra, lentils, ghee, spices",Veg,140,26.9124,75.7873,3,2,2
+49,Bengali,Macher Jhol,"Fish, potatoes, spices, mustard oil",Non-Veg,220,22.5726,88.3639,2,5,4
+50,Punjabi,Palak Chole,"Spinach, chickpeas, spices",Veg,190,30.7333,76.7794,3,3,2
+51,South Indian,Sambar,"Lentils, vegetables, tamarind, spices",Veg,240,12.9716,77.5946,3,5,3
+52,Continental,Quiche,"Eggs, cream, cheese, vegetables",Veg,160,48.8566,2.3522,4,1,2
+53,North Indian,Navratan Korma,"Mixed vegetables, nuts, cream, spices",Veg,210,28.6139,77.2090,5,1,2
+54,Chinese,Szechuan Noodles,"Noodles, vegetables, Szechuan sauce",Veg,180,39.9042,116.4074,3,2,4
+55,Gujarati,Besan Chilla,"Gram flour, spices, vegetables",Veg,200,22.2587,71.1924,4,2,2
+56,North-East,Drying Fish Curry,"Dried fish, spices, coconut",Non-Veg,140,26.2006,92.9376,2,4,5
+57,Rajasthani,Methi Thepla,"Fenugreek, wheat flour, spices",Veg,130,26.9124,75.7873,3,1,1
+58,Bengali,Mishti Doi,"Yogurt, jaggery, cardamom",Veg,160,22.5726,88.3639,5,1,1
+59,Punjabi,Dum Aloo,"Potatoes, yogurt, spices",Veg,180,30.7333,76.7794,4,1,2
+60,South Indian,Chettinad Chicken,"Chicken, spices, coconut",Non-Veg,220,12.9716,77.5946,3,4,5
+61,Continental,Chili Con Carne,"Ground beef, beans, spices, tomatoes",Non-Veg,300,48.8566,2.3522,2,2,5
+62,North Indian,Biriyani,"Basmati rice, mutton, spices",Non-Veg,400,28.6139,77.2090,4,2,5
+63,Chinese,Kung Pao Chicken,"Chicken, peanuts, vegetables, soy sauce",Non-Veg,250,39.9042,116.4074,3,2,4
+64,Gujarati,Khandvi,"Gram flour, yogurt, spices",Veg,180,22.2587,71.1924,4,1,2
+65,North-East,Ngari,"Fermented fish, spices, herbs",Non-Veg,100,26.2006,92.9376,2,3,4
+66,Rajasthani,Churma,"Wheat flour, ghee, jaggery",Veg,150,26.9124,75.7873,5,1,1
+67,Bengali,Prawn Curry,"Prawns, mustard oil, spices",Non-Veg,190,22.5726,88.3639,3,4,4
+68,Punjabi,Chaat,"Chickpeas, yogurt, chutney, spices",Veg,240,30.7333,76.7794,4,2,3
+69,South Indian,Pongal,"Rice, lentils, spices, ghee",Veg,220,12.9716,77.5946,3,1,2
+70,Continental,Mushroom Risotto,"Rice, mushrooms, broth, cheese",Veg,230,48.8566,2.3522,4,1,2
+71,North Indian,Chicken Tikka,"Chicken, yogurt, spices",Non-Veg,260,28.6139,77.2090,3,1,4
+72,Chinese,Vegetable Spring Rolls,"Vegetables, wrapper, soy sauce",Veg,180,39.9042,116.4074,2,2,2
+73,Gujarati,Dhokla,"Gram flour, yogurt, Eno, spices",Veg,170,22.2587,71.1924,4,1,1
+74,North-East,Khasi Pork,"Pork, spices, herbs",Non-Veg,140,26.2006,92.9376,2,3,4
+75,Rajasthani,Papad Ki Sabzi,"Papad, yogurt, spices",Veg,130,26.9124,75.7873,3,1,2
+76,Bengali,Kosha Mangsho,"Mutton, spices, mustard oil",Non-Veg,230,22.5726,88.3639,4,2,5
+77,Punjabi,Seviyan,"Vermicelli, milk, sugar, dry fruits",Veg,180,30.7333,76.7794,5,1,1
+78,South Indian,Biryani,"Basmati rice, meat, spices",Non-Veg,400,12.9716,77.5946,4,3,5
+79,Continental,Beef Stroganoff,"Beef, mushrooms, cream, pasta",Non-Veg,310,48.8566,2.3522,3,1,4
+80,North Indian,Methi Malai Murg,"Chicken, fenugreek, cream, spices",Non-Veg,220,28.6139,77.2090,4,2,5
+81,Chinese,Szechuan Fried Rice,"Rice, vegetables, spices, soy sauce",Veg,200,39.9042,116.4074,3,2,4
+82,Gujarati,Shrikhand,"Yogurt, sugar, cardamom, saffron",Veg,210,22.2587,71.1924,5,1,1
+83,North-East,Dried Fish,"Dried fish, spices, herbs",Non-Veg,120,26.2006,92.9376,2,3,4
+84,Rajasthani,Rajasthani Thali,"Mixed dishes, lentils, bread, rice",Veg,300,26.9124,75.7873,4,2,3
+85,Bengali,Chingri Bhapa,"Prawns, mustard, spices",Non-Veg,230,22.5726,88.3639,3,4,5
+86,Punjabi,Biryani,"Basmati rice, chicken, spices",Non-Veg,400,30.7333,76.7794,4,2,5
+87,South Indian,Masala Dosa,"Rice, lentils, potatoes, spices",Veg,280,12.9716,77.5946,3,1,4
+88,Continental,Tiramisu,"Coffee, mascarpone, sugar, cocoa",Veg,320,48.8566,2.3522,5,1,1
+89,North Indian,Gobhi Masala,"Cauliflower, spices, tomatoes",Veg,240,28.6139,77.2090,3,2,3
+90,Chinese,Chili Chicken,"Chicken, soy sauce, spices",Non-Veg,260,39.9042,116.4074,3,2,4
+91,Gujarati,Patra,"Colocasia leaves, gram flour, spices",Veg,140,22.2587,71.1924,4,1,3
+92,North-East,Chicken Thukpa,"Noodles, chicken, vegetables, spices",Non-Veg,220,26.2006,92.9376,2,4,5
+93,Rajasthani,Gatte Ki Sabzi,"Gram flour, spices, yogurt",Veg,190,26.9124,75.7873,3,2,3
+94,Bengali,Pukhurir Mangsho,"Goat meat, spices, potatoes",Non-Veg,250,22.5726,88.3639,4,2,5
+95,Punjabi,Lassi,"Yogurt, sugar, cardamom",Veg,130,30.7333,76.7794,5,1,1
+96,South Indian,Onion Uttapam,"Rice, lentils, onions, spices",Veg,190,12.9716,77.5946,3,1,2
+97,Continental,Ratatouille,"Eggplant, zucchini, tomatoes, herbs",Veg,220,48.8566,2.3522,3,1,2
+98,North Indian,Vegetable Korma,"Mixed vegetables, nuts, spices",Veg,240,28.6139,77.2090,4,1,3
+99,Chinese,Schezwan Egg,"Eggs, spices, vegetables",Non-Veg,180,39.9042,116.4074,3,3,4
+100,Gujarati,Dhokla,"Gram flour, yogurt, Eno, spices",Veg,190,22.2587,71.1924,4,1,1
+101,North-East,Dim Sum,"Dough, vegetables, meat",Non-Veg,210,26.2006,92.9376,2,3,4
+102,Rajasthani,Methi Bajra Khichdi,"Bajra, fenugreek, spices",Veg,160,26.9124,75.7873,3,1,2
+103,Bengali,Rui Macher Jhol,"Rohu fish, potatoes, spices",Non-Veg,230,22.5726,88.3639,2,4,4
+104,Punjabi,Puri,"Wheat flour, water, oil",Veg,150,30.7333,76.7794,1,1,1
+105,South Indian,Ragi Mudde,"Ragi flour, water",Veg,120,12.9716,77.5946,2,1,1
+106,Continental,Chili Chicken,"Chicken, bell peppers, spices",Non-Veg,220,48.8566,2.3522,3,2,4
+107,North Indian,Baida Roti,"Eggs, flour, spices",Non-Veg,130,28.6139,77.2090,2,1,3
+108,Chinese,Vegetable Noodles,"Noodles, vegetables, soy sauce",Veg,210,39.9042,116.4074,3,2,3
+109,Gujarati,Sev Tameta,"Sev, tomatoes, spices",Veg,180,22.2587,71.1924,3,2,2
+110,North-East,Bamboo Shoot Curry,"Bamboo shoots, spices",Veg,120,26.2006,92.9376,2,3,3
+111,North Indian,Paneer Butter Masala,"Paneer, butter, cream, spices",Veg,280,28.6139,77.2090,4,2,5
+112,Chinese,Sweet and Sour Pork,"Pork, pineapple, bell peppers, vinegar",Non-Veg,300,39.9042,116.4074,3,2,4
+113,Gujarati,Undhiyu,"Mixed vegetables, spices, fenugreek",Veg,320,22.2587,71.1924,4,1,3
+114,North-East,Thukpa,"Noodles, vegetables, meat",Non-Veg,250,26.2006,92.9376,3,4,5
+115,Rajasthani,Ker Sangri,"Desert beans, spices, yogurt",Veg,190,26.9124,75.7873,4,2,3
+116,Bengali,Shorshe Ilish,"Hilsa fish, mustard, spices",Non-Veg,400,22.5726,88.3639,5,2,5
+117,Punjabi,Chole Bhature,"Chickpeas, fried bread, spices",Veg,270,30.7333,76.7794,4,1,4
+118,South Indian,Chettinad Chicken,"Chicken, spices, coconut",Non-Veg,350,12.9716,77.5946,5,3,5
+119,Continental,Lasagna,"Pasta, cheese, meat, tomato sauce",Non-Veg,400,48.8566,2.3522,4,1,4
+120,North Indian,Malai Kofta,"Paneer, vegetables, cream, spices",Veg,320,28.6139,77.2090,4,1,5
+121,Chinese,Fried Rice,"Rice, vegetables, soy sauce",Veg,180,39.9042,116.4074,3,2,3
+122,Gujarati,Dhokli,"Wheat flour, spices, lentils",Veg,140,22.2587,71.1924,3,1,1
+123,North-East,Chura Doi,"Flattened rice, yogurt, sugar",Veg,120,26.2006,92.9376,4,3,2
+124,Rajasthani,Litti Chokha,"Whole wheat balls, mashed vegetables",Veg,290,26.9124,75.7873,4,2,3
+125,Bengali,Chingri Malai Curry,"Prawns, coconut milk, spices",Non-Veg,320,22.5726,88.3639,4,3,5
+126,Punjabi,Saag Aloo,"Mustard greens, potatoes, spices",Veg,230,30.7333,76.7794,3,1,3
+127,South Indian,Rasam,"Lentil soup, tomatoes, spices",Veg,120,12.9716,77.5946,3,1,2
+128,Continental,Beef Wellington,"Beef, mushrooms, pastry",Non-Veg,500,48.8566,2.3522,5,1,5
+129,North Indian,Butter Chicken,"Chicken, butter, cream, spices",Non-Veg,380,28.6139,77.2090,5,2,5
+130,Chinese,Peking Duck,"Duck, pancakes, hoisin sauce",Non-Veg,500,39.9042,116.4074,5,2,5
+131,Gujarati,Khaman,"Gram flour, turmeric, mustard seeds",Veg,150,22.2587,71.1924,4,1,2
+132,North-East,Biriyani,"Basmati rice, meat, spices",Non-Veg,420,26.2006,92.9376,5,3,5
+133,Rajasthani,Churma Ladoo,"Wheat flour, ghee, jaggery",Veg,160,26.9124,75.7873,3,1,1
+134,Bengali,Beguni,"Eggplant, gram flour, spices",Veg,180,22.5726,88.3639,3,1,2
+135,Punjabi,Gobhi Aloo,"Cauliflower, potatoes, spices",Veg,220,30.7333,76.7794,3,2,3
+136,South Indian,Vada Sambar,"Lentil donuts, vegetable curry",Veg,200,12.9716,77.5946,4,1,3
+137,Continental,Crepes,"Flour, eggs, milk, fillings",Veg,250,48.8566,2.3522,3,1,2
+138,North Indian,Shahi Paneer,"Paneer, cream, spices",Veg,340,28.6139,77.2090,4,1,5
+139,Chinese,Sichuan Noodles,"Noodles, spices, vegetables",Veg,220,39.9042,116.4074,3,2,3
+140,Gujarati,Patra,"Colocasia leaves, gram flour, spices",Veg,160,22.2587,71.1924,4,1,3
+141,North-East,Phagshapa,"Pork, radish, spices",Non-Veg,280,26.2006,92.9376,3,4,5
+142,Rajasthani,Gatte Ki Sabzi,"Gram flour dumplings, spices",Veg,210,26.9124,75.7873,3,2,3
+143,Bengali,Alur Dom,"Potatoes, spices, mustard oil",Veg,180,22.5726,88.3639,4,2,3
+144,Punjabi,Methi Thepla,"Fenugreek flatbread, spices",Veg,190,30.7333,76.7794,4,1,2
+145,South Indian,Appam,"Rice pancakes, coconut milk",Veg,170,12.9716,77.5946,3,1,3
+146,Continental,Quiche,"Eggs, cheese, vegetables, crust",Veg,300,48.8566,2.3522,4,1,4
+147,North Indian,Dum Aloo,"Potatoes, spices, yogurt",Veg,210,28.6139,77.2090,3,2,3
+148,Chinese,Mapo Tofu,"Tofu, pork, spices, Sichuan pepper",Non-Veg,250,39.9042,116.4074,4,2,4
+149,Gujarati,Sev Khaman,"Sev, gram flour cake, spices",Veg,200,22.2587,71.1924,4,1,1
+150,North-East,Khar,"Raw papaya, alkaline water, spices",Veg,150,26.2006,92.9376,3,3,3
+151,Rajasthani,Missi Roti,"Gram flour bread, spices",Veg,130,26.9124,75.7873,3,1,1
+152,Bengali,Patishapta,"Crepes, coconut, jaggery",Veg,200,22.5726,88.3639,4,1,2
+153,Punjabi,Rajma Chawal,"Kidney beans, rice, spices",Veg,290,30.7333,76.7794,4,1,4
+154,South Indian,Idli,"Rice cakes, lentils, spices",Veg,160,12.9716,77.5946,3,1,2
+155,Continental,Beef Stroganoff,"Beef, mushrooms, cream",Non-Veg,360,48.8566,2.3522,5,1,5
+156,North Indian,Daal Makhani,"Black lentils, cream, butter",Veg,270,28.6139,77.2090,4,2,5
+157,Chinese,Fried Tofu,"Tofu, vegetables, soy sauce",Veg,200,39.9042,116.4074,3,2,3
+158,Gujarati,Dhokla,"Gram flour, yogurt, spices",Veg,160,22.2587,71.1924,4,1,1
+159,North-East,Thalipeeth,"Multi-grain flatbread, spices",Veg,210,26.2006,92.9376,3,1,2
+160,Rajasthani,Dal Baati Churma,"Lentils, bread, jaggery",Veg,320,26.9124,75.7873,5,1,4
+161,Bengali,Macher Jhol,"Fish curry, vegetables, spices",Non-Veg,230,22.5726,88.3639,4,2,4
+162,Punjabi,Paneer Tikka,"Paneer, spices, grill",Veg,280,30.7333,76.7794,4,1,5
+163,South Indian,Sambar Rice,"Rice, lentils, vegetables",Veg,220,12.9716,77.5946,4,1,3
+164,Continental,Beef Tacos,"Beef, tortillas, vegetables",Non-Veg,250,48.8566,2.3522,3,1,3
+165,North Indian,Tandoori Chicken,"Chicken, yogurt, spices",Non-Veg,400,28.6139,77.2090,5,2,5
+166,Chinese,Hot and Sour Soup,"Tofu, mushrooms, spices",Veg,180,39.9042,116.4074,3,1,3
+167,Gujarati,Thepla,"Fenugreek flatbread, spices",Veg,200,22.2587,71.1924,4,1,2
+168,North-East,Masoor Dal,"Red lentils, spices, vegetables",Veg,140,26.2006,92.9376,3,2,2
+169,Rajasthani,Paneer Gatta,"Paneer, gram flour, spices",Veg,310,26.9124,75.7873,4,2,4
+170,Bengali,Rasmalai,"Cheese, milk, sugar, saffron",Veg,180,22.5726,88.3639,4,1,2
+171,Punjabi,Aloo Paratha,"Potato stuffed bread, yogurt",Veg,260,30.7333,76.7794,4,1,4
+172,South Indian,Curd Rice,"Rice, yogurt, mustard",Veg,150,12.9716,77.5946,3,1,2
+173,Continental,Chicken Caesar Salad,"Chicken, lettuce, croutons",Non-Veg,300,48.8566,2.3522,4,1,4
+174,North Indian,Kadhai Paneer,"Paneer, bell peppers, spices",Veg,320,28.6139,77.2090,4,2,5
+175,Chinese,Kung Pao Chicken,"Chicken, peanuts, spices",Non-Veg,350,39.9042,116.4074,5,2,5
+176,Gujarati,Undhiyu,"Mixed vegetables, spices",Veg,320,22.2587,71.1924,4,1,3
+177,North-East,Shynee,"Meat, local herbs, spices",Non-Veg,280,26.2006,92.9376,4,3,5
+178,Rajasthani,Gatte Ki Sabzi,"Gram flour dumplings, spices",Veg,210,26.9124,75.7873,3,2,3
+179,Bengali,Chingri Malai Curry,"Prawns, coconut milk, spices",Non-Veg,320,22.5726,88.3639,4,3,5
+180,Punjabi,Daal Tadka,"Yellow lentils, spices, ghee",Veg,240,30.7333,76.7794,4,1,3
+181,South Indian,Medu Vada,"Lentil donuts, spices",Veg,190,12.9716,77.5946,4,1,3
+182,Continental,Macaroni and Cheese,"Pasta, cheese, cream",Veg,300,48.8566,2.3522,4,1,4
+183,North Indian,Biryani,"Basmati rice, meat, spices",Non-Veg,450,28.6139,77.2090,5,2,5
+184,Chinese,Chow Mein,"Noodles, vegetables, soy sauce",Veg,250,39.9042,116.4074,4,2,3
+185,Gujarati,Sev Tameta,"Sev, tomatoes, spices",Veg,150,22.2587,71.1924,3,1,1
+186,North-East,Farcha,"Spiced fried chicken, herbs",Non-Veg,280,26.2006,92.9376,3,4,5
+187,Rajasthani,Dal Baati,"Lentils, bread, ghee",Veg,300,26.9124,75.7873,4,1,3
+188,Bengali,Shorshe Ilish,"Hilsa fish, mustard sauce",Non-Veg,400,22.5726,88.3639,5,2,5
+189,Punjabi,Chole Masala,"Chickpeas, spices, onion",Veg,250,30.7333,76.7794,4,1,3
+190,South Indian,Avial,"Mixed vegetables, coconut, yogurt",Veg,220,12.9716,77.5946,4,1,3
+191,Continental,Shrimp Scampi,"Shrimp, garlic, butter",Non-Veg,360,48.8566,2.3522,5,1,5
+192,North Indian,Tandoori Roti,"Whole wheat bread, tandoor",Veg,160,28.6139,77.2090,3,1,2
+193,Chinese,Szechuan Chicken,"Chicken, spicy sauce, vegetables",Non-Veg,350,39.9042,116.4074,5,2,5
+194,Gujarati,Patra,"Colocasia leaves, gram flour",Veg,160,22.2587,71.1924,4,1,3
+195,North-East,Khichdi,"Rice, lentils, vegetables",Veg,200,26.2006,92.9376,4,2,3
+196,Rajasthani,Laal Maas,"Spicy mutton curry, yogurt",Non-Veg,450,26.9124,75.7873,5,3,5
+197,Bengali,Chingri Bhapa,"Steamed prawns, mustard, spices",Non-Veg,320,22.5726,88.3639,4,2,4
+198,Punjabi,Methi Paratha,"Fenugreek stuffed bread, yogurt",Veg,230,30.7333,76.7794,4,1,3
+199,South Indian,Upma,"Semolina, vegetables, spices",Veg,180,12.9716,77.5946,3,1,2
+200,Continental,Ratatouille,"Vegetables, herbs, olive oil",Veg,250,48.8566,2.3522,4,1,3
+201,North Indian,Chole Bhature,"Chickpeas, bread, spices",Non-Veg,250,28.6139,77.2090,4,2,4
+202,Chinese,Beef Chow Fun,"Beef, rice noodles, vegetables",Non-Veg,400,39.9042,116.4074,5,3,5
+203,Gujarati,Khandvi,"Gram flour, yogurt, spices",Veg,120,22.2587,71.1924,3,1,2
+204,North-East,Pitha,"Rice flour, jaggery, coconut",Veg,150,26.2006,92.9376,3,1,2
+205,Rajasthani,Ker Sangri,"Desert beans, spices",Veg,180,26.9124,75.7873,4,1,3
+206,Bengali,Pati Shapta,"Rice flour, coconut, jaggery",Veg,200,22.5726,88.3639,4,1,3
+207,Punjabi,Sarson Da Saag,"Mustard greens, spices",Veg,210,30.7333,76.7794,4,2,4
+208,South Indian,Idli,"Fermented rice cakes, spices",Veg,100,12.9716,77.5946,4,1,2
+209,Continental,Quiche,"Eggs, cheese, pastry",Veg,280,48.8566,2.3522,4,1,4
+210,North Indian,Dum Aloo,"Potatoes, spices, yogurt",Veg,220,28.6139,77.2090,3,1,3
+211,Chinese,Spring Rolls,"Vegetables, pastry, soy sauce",Veg,150,39.9042,116.4074,4,2,3
+212,Gujarati,Dhokla,"Gram flour, yogurt, spices",Veg,90,22.2587,71.1924,3,1,1
+213,North-East,Thukpa,"Noodles, meat, vegetables",Non-Veg,300,26.2006,92.9376,5,3,4
+214,Rajasthani,Bajra Khichdi,"Millet, lentils, spices",Veg,190,26.9124,75.7873,3,1,2
+215,Bengali,Macher Jhol,"Fish, potatoes, spices",Non-Veg,360,22.5726,88.3639,4,2,4
+216,Punjabi,Bhindi Masala,"Okra, spices, onion",Veg,230,30.7333,76.7794,4,1,3
+217,South Indian,Dosa,"Fermented rice crepe, spices",Veg,120,12.9716,77.5946,4,1,2
+218,Continental,Lamb Chops,"Lamb, herbs, spices",Non-Veg,600,48.8566,2.3522,5,3,5
+219,North Indian,Palak Paneer,"Spinach, paneer, spices",Veg,300,28.6139,77.2090,4,2,4
+220,Chinese,General Tso's Chicken,"Chicken, soy sauce, spices",Non-Veg,400,39.9042,116.4074,4,2,4
+221,Gujarati,Patra,"Colocasia leaves, gram flour",Veg,160,22.2587,71.1924,3,1,2
+222,North-East,Khar,"Raw papaya, alkaline water, spices",Veg,250,26.2006,92.9376,4,1,3
+223,Rajasthani,Laal Maas,"Mutton, spicy gravy",Non-Veg,500,26.9124,75.7873,5,3,5
+224,Bengali,Cholar Dal,"Bengal gram, spices",Veg,180,22.5726,88.3639,3,1,2
+225,Punjabi,Kulcha,"Bread stuffed with potatoes, spices",Veg,230,30.7333,76.7794,4,1,3
+226,South Indian,Sambar,"Lentil stew, vegetables",Veg,200,12.9716,77.5946,4,1,3
+227,Continental,Beef Wellington,"Beef, pastry, mushrooms",Non-Veg,800,48.8566,2.3522,5,4,5
+228,North Indian,Paneer Tikka,"Paneer, spices, yogurt",Veg,350,28.6139,77.2090,5,2,4
+229,Chinese,Moo Shu Pork,"Pork, vegetables, pancakes",Non-Veg,420,39.9042,116.4074,4,2,4
+230,Gujarati,Khichdi,"Rice, lentils, spices",Veg,180,22.2587,71.1924,3,1,2
+231,North-East,Mezze,"Assorted snacks, dips",Veg,400,26.2006,92.9376,4,1,4
+232,Rajasthani,Churma,"Wheat flour, ghee, jaggery",Veg,230,26.9124,75.7873,3,1,2
+233,Bengali,Shorshe Ilish,"Hilsa fish, mustard sauce",Non-Veg,450,22.5726,88.3639,5,3,5
+234,Punjabi,Makke Ki Roti,"Corn flatbread, butter",Veg,180,30.7333,76.7794,4,1,3
+235,South Indian,Appam,"Fermented rice pancake, coconut",Veg,220,12.9716,77.5946,4,1,3
+236,Continental,French Toast,"Bread, eggs, sugar",Veg,160,48.8566,2.3522,3,1,2
+237,North Indian,Saag Aloo,"Spinach, potatoes, spices",Veg,240,28.6139,77.2090,4,1,3
+238,Chinese,Kung Pao Tofu,"Tofu, peanuts, vegetables",Veg,300,39.9042,116.4074,4,2,4
+239,Gujarati,Thepla,"Fenugreek flatbread, spices",Veg,200,22.2587,71.1924,4,1,3
+240,North-East,Fried Rice,"Rice, vegetables, spices",Veg,180,26.2006,92.9376,3,1,2
+241,Rajasthani,Daal Baati,"Lentils, bread, ghee",Veg,320,26.9124,75.7873,4,2,4
+242,Bengali,Dhokar Dalna,"Lentil cakes, gravy",Veg,220,22.5726,88.3639,4,1,3
+243,Punjabi,Butter Chicken,"Chicken, butter, spices",Non-Veg,450,30.7333,76.7794,5,3,5
+244,South Indian,Medu Vada,"Lentil donuts, spices",Veg,190,12.9716,77.5946,4,1,2
+245,Continental,Carbonara,"Pasta, bacon, cream",Non-Veg,350,48.8566,2.3522,4,2,4
+246,North Indian,Chaat,"Crispy snacks, yogurt, chutneys",Veg,150,28.6139,77.2090,4,1,3
+247,Chinese,Sweet and Sour Pork,"Pork, vegetables, sauce",Non-Veg,400,39.9042,116.4074,4,2,4
+248,Gujarati,Sev Tameta,"Sev, tomatoes, spices",Veg,150,22.2587,71.1924,3,1,2
+249,North-East,Thukpa,"Noodles, meat, vegetables",Non-Veg,300,26.2006,92.9376,5,2,4
+250,Rajasthani,Gatte Ki Sabzi,"Gram flour dumplings, spices",Veg,210,26.9124,75.7873,4,1,3
+251,Bengali,Chingri Malai Curry,"Prawns, coconut milk, spices",Non-Veg,320,22.5726,88.3639,4,3,5
+252,Punjabi,Daal Makhani,"Black lentils, cream, spices",Veg,240,30.7333,76.7794,4,1,3
+253,South Indian,Upma,"Semolina, vegetables, spices",Veg,180,12.9716,77.5946,3,1,2
+254,Continental,Shrimp Scampi,"Shrimp, garlic, butter",Non-Veg,360,48.8566,2.3522,5,2,5
+255,North Indian,Tandoori Roti,"Whole wheat bread, tandoor",Veg,50,28.6139,77.2090,4,1,1
+256,Chinese,Chow Mein,"Noodles, vegetables, soy sauce",Veg,230,39.9042,116.4074,4,1,3
+257,Gujarati,Undhiyu,"Mixed vegetables, spices",Veg,280,22.2587,71.1924,5,2,4
+258,North-East,Khichidi,"Rice, lentils, spices",Veg,200,26.2006,92.9376,4,1,3
+259,Rajasthani,Bikaneri Bhujia,"Fried snacks, spices",Veg,100,26.9124,75.7873,3,1,1
+260,Bengali,Chhanar Puli,"Paneer, sugar, flour",Veg,220,22.5726,88.3639,4,2,4
+261,Punjabi,Lassi,"Yogurt, sugar, water",Veg,70,30.7333,76.7794,4,2,3
+262,South Indian,Vada Sambar,"Lentil donuts, lentil stew",Veg,210,12.9716,77.5946,4,2,4
+263,Continental,Cheeseburger,"Beef patty, cheese, bun",Non-Veg,450,48.8566,2.3522,5,3,5
+264,North Indian,Paneer Butter Masala,"Paneer, butter, spices",Veg,360,28.6139,77.2090,5,4,5
+265,Chinese,Hot and Sour Soup,"Chicken, mushrooms, spices",Non-Veg,200,39.9042,116.4074,4,2,3
+266,Gujarati,Chaas,"Yogurt, water, spices",Veg,60,22.2587,71.1924,3,1,1
+267,North-East,Fish Curry,"Fish, coconut milk, spices",Non-Veg,320,26.2006,92.9376,5,3,4
+268,Rajasthani,Daal Baati Churma,"Lentils, bread, jaggery",Veg,350,26.9124,75.7873,5,2,5
+269,Bengali,Poori Alu,"Bread, potatoes, spices",Veg,180,22.5726,88.3639,4,2,3
+270,Punjabi,Raita,"Yogurt, cucumber, spices",Veg,90,30.7333,76.7794,3,1,1
+271,South Indian,Masala Dosa,"Fermented rice crepe, potatoes",Veg,120,12.9716,77.5946,4,1,2
+272,Continental,Crème Brûlée,"Cream, sugar, eggs",Veg,400,48.8566,2.3522,5,3,5
+273,North Indian,Kadai Paneer,"Paneer, bell peppers, spices",Veg,350,28.6139,77.2090,4,1,4
+274,Chinese,Fried Rice,"Rice, vegetables, soy sauce",Veg,180,39.9042,116.4074,4,2,3
+275,Gujarati,Patra,"Colocasia leaves, gram flour, spices",Veg,150,22.2587,71.1924,3,1,2
+276,North-East,Momos,"Dumplings, vegetables, spices",Veg,250,26.2006,92.9376,4,1,3
+277,Rajasthani,Gatta Curry,"Gram flour dumplings, gravy",Veg,320,26.9124,75.7873,4,2,4
+278,Bengali,Chingri Malai Curry,"Prawns, coconut milk, spices",Non-Veg,420,22.5726,88.3639,5,3,5
+279,Punjabi,Kheer,"Rice, milk, sugar",Veg,180,30.7333,76.7794,4,1,2
+280,South Indian,Pongal,"Rice, lentils, spices",Veg,150,12.9716,77.5946,3,1,1
+281,Continental,Tiramisu,"Coffee, mascarpone, cocoa",Veg,500,48.8566,2.3522,5,4,4
+282,North Indian,Chana Masala,"Chickpeas, spices, onion",Veg,200,28.6139,77.2090,4,1,3
+283,Chinese,Kung Pao Chicken,"Chicken, peanuts, vegetables",Non-Veg,400,39.9042,116.4074,5,3,4
+284,Gujarati,Thepla,"Fenugreek flatbread, spices",Veg,190,22.2587,71.1924,3,1,2
+285,North-East,Silkworm Curry,"Silkworms, spices, vegetables",Non-Veg,350,26.2006,92.9376,5,3,5
+286,Rajasthani,Bajra Khichdi,"Millet, lentils, spices",Veg,180,26.9124,75.7873,3,1,2
+287,Bengali,Shorshe Ilish,"Hilsa fish, mustard sauce",Non-Veg,450,22.5726,88.3639,5,4,5
+288,Punjabi,Malai Kofta,"Paneer, cream, spices",Veg,300,30.7333,76.7794,4,1,3
+289,South Indian,Filter Coffee,"Coffee, milk, sugar",Veg,50,12.9716,77.5946,4,2,3
+290,Continental,Beef Stroganoff,"Beef, mushrooms, sour cream",Non-Veg,650,48.8566,2.3522,5,3,5
+291,North Indian,Shahi Paneer,"Paneer, cream, spices",Veg,400,28.6139,77.2090,4,2,4
+292,Chinese,Sichuan Noodles,"Noodles, spices, vegetables",Veg,220,39.9042,116.4074,3,1,2
+293,Gujarati,Dhokla,"Gram flour, yogurt, spices",Veg,100,22.2587,71.1924,4,1,2
+294,North-East,Thukpa,"Noodles, meat, vegetables",Non-Veg,300,26.2006,92.9376,5,3,4
+295,Rajasthani,Papad Ki Sabzi,"Papad, spices, yogurt",Veg,180,26.9124,75.7873,3,1,2
+296,Bengali,Cholar Dal,"Bengal gram, spices",Veg,160,22.5726,88.3639,4,1,2
+297,Punjabi,Tandoori Chicken,"Chicken, spices, yogurt",Non-Veg,500,30.7333,76.7794,5,4,5
+298,South Indian,Curd Rice,"Rice, yogurt, spices",Veg,120,12.9716,77.5946,3,1,1
+299,Continental,Caesars Salad,"Lettuce, croutons, dressing",Veg,300,48.8566,2.3522,4,2,4
+300,North Indian,Masala Chai,"Tea, spices, milk",Veg,40,28.6139,77.2090,3,1,1
+301,Chinese,Dim Sum,"Dumplings, vegetables, spices",Veg,250,39.9042,116.4074,4,2,3
+302,Gujarati,Sev Usal,"Bean sprouts, sev, spices",Veg,210,22.2587,71.1924,4,1,3
+303,North-East,Thukpa,"Noodles, meat, vegetables",Non-Veg,290,26.2006,92.9376,5,3,4
+304,Rajasthani,Ker Sangri,"Desert beans, spices",Veg,190,26.9124,75.7873,4,1,3
+305,Bengali,Rasgulla,"Cottage cheese, sugar syrup",Veg,80,22.5726,88.3639,4,2,3
+306,Punjabi,Biriyani,"Rice, chicken, spices",Non-Veg,450,30.7333,76.7794,5,4,5
+307,South Indian,Neer Dosa,"Rice pancake, coconut",Veg,160,12.9716,77.5946,4,1,2
+308,Continental,Lasagna,"Pasta, meat, cheese",Non-Veg,500,48.8566,2.3522,5,3,5
+309,North Indian,Gobhi Manchurian,"Cauliflower, soy sauce, spices",Veg,250,28.6139,77.2090,4,1,3
+310,Chinese,Chow Mein,"Noodles, vegetables, soy sauce",Veg,180,39.9042,116.4074,4,2,2
+311,Gujarati,Handvo,"Vegetable cake, gram flour",Veg,200,22.2587,71.1924,3,1,2
+312,North-East,Smoked Pork,"Pork, bamboo shoot, spices",Non-Veg,500,26.2006,92.9376,5,3,4
+313,Rajasthani,Daal Baati,"Lentils, bread, ghee",Veg,320,26.9124,75.7873,5,2,5
+314,Bengali,Shobji Bhaja,"Fried vegetables, spices",Veg,120,22.5726,88.3639,3,1,1
+315,Punjabi,Paneer Tikka,"Paneer, spices, yogurt",Veg,280,30.7333,76.7794,4,2,4
+316,South Indian,Appam,"Rice pancakes, coconut milk",Veg,150,12.9716,77.5946,3,1,2
+317,Continental,Quiche,"Eggs, cheese, vegetables",Veg,400,48.8566,2.3522,5,3,5
+318,North Indian,Biryani,"Rice, meat, spices",Non-Veg,600,28.6139,77.2090,5,4,4
+319,Chinese,Fried Rice,"Rice, vegetables, soy sauce",Veg,200,39.9042,116.4074,4,2,3
+320,Gujarati,Undhiyu,"Mixed vegetables, spices",Veg,250,22.2587,71.1924,4,1,3
+321,North-East,Khichidi,"Rice, lentils, spices",Veg,210,26.2006,92.9376,4,1,3
+322,Rajasthani,Bikaneri Bhujia,"Fried snacks, spices",Veg,130,26.9124,75.7873,3,1,1
+323,Bengali,Chhanar Puli,"Paneer, sugar, flour",Veg,250,22.5726,88.3639,4,2,4
+324,Punjabi,Chole Bhature,"Chickpeas, fried bread",Veg,300,30.7333,76.7794,5,3,5
+325,South Indian,Sambhar Rice,"Rice, lentils, vegetables",Veg,180,12.9716,77.5946,4,2,4
+326,Continental,Macaroni Cheese,"Pasta, cheese, butter",Veg,350,48.8566,2.3522,4,2,3
+327,North Indian,Rogan Josh,"Lamb, yogurt, spices",Non-Veg,500,28.6139,77.2090,5,4,5
+328,Chinese,Sweet and Sour Pork,"Pork, vegetables, sauce",Non-Veg,400,39.9042,116.4074,4,3,4
+329,Gujarati,Dhokla,"Gram flour, yogurt, spices",Veg,120,22.2587,71.1924,3,1,1
+330,North-East,Fish Amok,"Fish, coconut milk, spices",Non-Veg,350,26.2006,92.9376,5,3,4
+331,Rajasthani,Daal Panchmel,"Five lentils, spices",Veg,300,26.9124,75.7873,5,3,4
+332,Bengali,Chingri Bhapa,"Steamed prawns, mustard",Non-Veg,400,22.5726,88.3639,5,4,5
+333,Punjabi,Paneer Pakora,"Paneer, gram flour, spices",Veg,200,30.7333,76.7794,4,1,3
+334,South Indian,Vermicelli Upma,"Vermicelli, vegetables, spices",Veg,160,12.9716,77.5946,3,1,2
+335,Continental,Beef Wellington,"Beef, pastry, mushrooms",Non-Veg,600,48.8566,2.3522,5,4,4
+336,North Indian,Rajma Chawal,"Kidney beans, rice",Veg,200,28.6139,77.2090,4,1,3
+337,Chinese,Sweet and Sour Pork,"Pork, vegetables, sauce",Non-Veg,380,39.9042,116.4074,5,3,4
+338,Gujarati,Surati Locho,"Gram flour, spices, vegetables",Veg,180,22.2587,71.1924,4,2,3
+339,North-East,Raja Mircha Curry,"King chili, meat, spices",Non-Veg,420,26.2006,92.9376,5,4,5
+340,Rajasthani,Methi Malai Chicken,"Chicken, fenugreek, cream",Non-Veg,450,26.9124,75.7873,5,4,5
+341,Bengali,Khichuri,"Rice, lentils, vegetables",Veg,250,22.5726,88.3639,4,2,3
+342,Punjabi,Amritsari Kulcha,"Stuffed bread, butter",Veg,200,30.7333,76.7794,4,1,3
+343,South Indian,Upma,"Semolina, vegetables, spices",Veg,150,12.9716,77.5946,3,1,2
+344,Continental,Ratatouille,"Vegetables, herbs, olive oil",Veg,380,48.8566,2.3522,5,3,4
+345,North Indian,Kachori,"Spiced pastry, lentils",Veg,160,28.6139,77.2090,4,1,2
+346,Chinese,Mapo Tofu,"Tofu, ground meat, spices",Veg,200,39.9042,116.4074,4,1,3
+347,Gujarati,Patra,"Colocasia leaves, gram flour, spices",Veg,140,22.2587,71.1924,3,1,2
+348,North-East,Sukhua Bharta,"Smoked fish, spices",Non-Veg,300,26.2006,92.9376,5,3,4
+349,Rajasthani,Gatte Ki Sabzi,"Gram flour dumplings, curry",Veg,320,26.9124,75.7873,5,2,5
+350,Bengali,Chingri Macher Malai Curry,"Prawns, coconut milk, spices",Non-Veg,450,22.5726,88.3639,5,4,5
+351,Punjabi,Dal Makhani,"Black lentils, butter, cream",Veg,350,30.7333,76.7794,5,3,4
+352,South Indian,Sundal,"Chickpeas, coconut, spices",Veg,120,12.9716,77.5946,4,1,2
+353,Continental,Pasta Primavera,"Pasta, vegetables, olive oil",Veg,400,48.8566,2.3522,5,3,5
+354,North Indian,Chole Bhature,"Chickpeas, fried bread",Veg,220,28.6139,77.2090,4,1,3
+355,Chinese,Dumplings,"Meat, dough, vegetables",Non-Veg,300,39.9042,116.4074,4,2,4
+356,Gujarati,Undhiyu,"Mixed vegetables, spices",Veg,280,22.2587,71.1924,5,2,4
+357,North-East,Bamboo Shoot Curry,"Bamboo shoots, meat, spices",Non-Veg,350,26.2006,92.9376,5,3,4
+358,Rajasthani,Churma,"Crushed bread, jaggery, ghee",Veg,220,26.9124,75.7873,4,1,3
+359,Bengali,Pati Shapta,"Crepes, coconut, jaggery",Veg,160,22.5726,88.3639,4,2,3
+360,Punjabi,Butter Chicken,"Chicken, butter, cream",Non-Veg,500,30.7333,76.7794,5,4,5
+361,South Indian,Avial,"Mixed vegetables, coconut, yogurt",Veg,200,12.9716,77.5946,4,1,2
+362,Continental,Boeuf Bourguignon,"Beef, red wine, vegetables",Non-Veg,700,48.8566,2.3522,5,4,4
+363,North Indian,Aloo Gobi,"Potatoes, cauliflower, spices",Veg,150,28.6139,77.2090,3,1,2
+364,Chinese,Fried Noodles,"Noodles, vegetables, soy sauce",Veg,180,39.9042,116.4074,4,2,3
+365,Gujarati,Shrikhand,"Yogurt, sugar, saffron",Veg,90,22.2587,71.1924,3,1,1
+366,North-East,Khura,"Rice flour, fish, spices",Non-Veg,250,26.2006,92.9376,4,1,2
+367,Rajasthani,Dal Baati,"Lentils, bread, ghee",Veg,300,26.9124,75.7873,5,2,4
+368,Bengali,Malpua,"Flour, sugar, banana",Veg,150,22.5726,88.3639,3,1,1
+369,Punjabi,Rajma,"Kidney beans, spices",Veg,200,30.7333,76.7794,4,1,3
+370,South Indian,Chettinad Chicken,"Chicken, spices, coconut",Non-Veg,450,12.9716,77.5946,5,4,5
+371,Continental,Tiramisu,"Coffee, mascarpone, sugar",Veg,350,48.8566,2.3522,4,2,4
+372,North Indian,Palak Paneer,"Spinach, paneer, spices",Veg,220,28.6139,77.2090,4,1,3
+373,Chinese,Kung Pao Chicken,"Chicken, peanuts, vegetables",Non-Veg,400,39.9042,116.4074,5,4,4
+374,Gujarati,Dhokli,"Wheat flour, spices, yogurt",Veg,200,22.2587,71.1924,4,1,3
+375,North-East,Silkworm Curry,"Silkworms, spices",Non-Veg,350,26.2006,92.9376,5,4,4
+376,Rajasthani,Gulab Jamun,"Milk, sugar, cardamom",Veg,120,26.9124,75.7873,4,1,2
+377,Bengali,Shorshe Ilish,"Hilsa fish, mustard sauce",Non-Veg,500,22.5726,88.3639,5,4,5
+378,Punjabi,Chole,"Chickpeas, spices",Veg,250,30.7333,76.7794,4,2,3
+379,South Indian,Pongal,"Rice, lentils, spices",Veg,180,12.9716,77.5946,4,1,2
+380,Continental,Crepes,"Flour, eggs, milk",Veg,300,48.8566,2.3522,5,3,4
+381,North Indian,Saag Paneer,"Spinach, paneer, spices",Veg,220,28.6139,77.2090,4,2,3
+382,Chinese,Fried Rice,"Rice, vegetables, soy sauce",Veg,250,39.9042,116.4074,4,1,3
+383,Gujarati,Sev Tameta,"Sev, tomatoes, spices",Veg,180,22.2587,71.1924,4,1,2
+384,North-East,Aloo Pitika,"Potatoes, mustard oil, spices",Veg,150,26.2006,92.9376,4,1,2
+385,Rajasthani,Ker Sangri,"Desert beans, spices",Veg,300,26.9124,75.7873,5,3,4
+386,Bengali,Macher Jhol,"Fish, potatoes, spices",Non-Veg,400,22.5726,88.3639,5,3,4
+387,Punjabi,Paneer Butter Masala,"Paneer, butter, cream",Veg,300,30.7333,76.7794,5,4,5
+388,South Indian,Medu Vada,"Lentils, spices, oil",Veg,150,12.9716,77.5946,3,1,2
+389,Continental,Chocolate Soufflé,"Chocolate, eggs, sugar",Veg,450,48.8566,2.3522,5,4,4
+390,North Indian,Tandoori Chicken,"Chicken, yogurt, spices",Non-Veg,500,28.6139,77.2090,5,4,5
+391,Chinese,Hot and Sour Soup,"Tofu, mushrooms, spices",Veg,200,39.9042,116.4074,4,1,3
+392,Gujarati,Khichu,"Rice flour, spices, oil",Veg,120,22.2587,71.1924,4,1,2
+393,North-East,Masor Tenga,"Fish, souring agent, spices",Non-Veg,350,26.2006,92.9376,5,3,4
+394,Rajasthani,Baida Roti,"Egg, wheat flour, spices",Non-Veg,220,26.9124,75.7873,4,1,3
+395,Bengali,Shobji Baji,"Mixed vegetables, spices",Veg,150,22.5726,88.3639,4,1,2
+396,Punjabi,Gobhi Aloo,"Cauliflower, potatoes, spices",Veg,220,30.7333,76.7794,4,1,3
+397,South Indian,Idli Dosa,"Rice, lentils, spices",Veg,250,12.9716,77.5946,4,1,3
+398,Continental,Bruschetta,"Bread, tomatoes, basil",Veg,200,48.8566,2.3522,4,2,3
+399,North Indian,Palak Chole,"Spinach, chickpeas, spices",Veg,220,28.6139,77.2090,4,1,3
+400,Chinese,Schezwan Noodles,"Noodles, vegetables, spices",Veg,220,39.9042,116.4074,4,1,3
+401,Gujarati,Dhokli Turiya,"Wheat flour, spices, vegetables",Veg,250,22.2587,71.1924,4,2,3
+402,North-East,Masoor Daal,"Red lentils, spices",Veg,150,26.2006,92.9376,4,1,2
+403,Rajasthani,Daal Bafla,"Lentils, bread, ghee",Veg,300,26.9124,75.7873,5,3,4
+404,Bengali,Chingri Malai Curry,"Prawns, coconut milk, spices",Non-Veg,500,22.5726,88.3639,5,4,5
+405,Punjabi,Paneer Tikka,"Paneer, spices, yogurt",Veg,400,30.7333,76.7794,5,3,5
+406,South Indian,Bisi Bele Bath,"Rice, lentils, spices",Veg,300,12.9716,77.5946,5,3,4
+407,Continental,Risotto,"Rice, vegetables, broth",Veg,350,48.8566,2.3522,5,3,4
+408,North Indian,Kulcha,"Stuffed bread, spices",Veg,180,28.6139,77.2090,4,1,3
+409,Chinese,Hot Garlic Chicken,"Chicken, garlic, soy sauce",Non-Veg,350,39.9042,116.4074,5,3,4
+410,Gujarati,Patra Ni Machhi,"Fish, gram flour, spices",Non-Veg,400,22.2587,71.1924,5,3,5
+411,North-East,Bamboo Shoot Fry,"Bamboo shoots, spices",Veg,180,26.2006,92.9376,4,1,2
+412,Rajasthani,Gatte Ki Sabzi,"Gram flour dumplings, spices",Veg,300,26.9124,75.7873,5,2,4
+413,Bengali,Maacher Kalia,"Fish, potatoes, spices",Non-Veg,450,22.5726,88.3639,5,4,5
+414,Punjabi,Paneer Pakoda,"Paneer, gram flour, spices",Veg,250,30.7333,76.7794,4,2,3
+415,South Indian,Medu Vada,"Lentils, spices, oil",Veg,160,12.9716,77.5946,3,1,2
+416,Continental,Chicken Cordon Bleu,"Chicken, cheese, ham",Non-Veg,500,48.8566,2.3522,5,4,4
+417,North Indian,Dum Aloo,"Potatoes, spices",Veg,200,28.6139,77.2090,3,1,2
+418,Chinese,Wontons,"Meat, dough, vegetables",Non-Veg,300,39.9042,116.4074,4,2,4
+419,Gujarati,Thalipeeth,"Multi-grain flatbread, spices",Veg,220,22.2587,71.1924,4,1,3
+420,North-East,Thukpa,"Noodles, meat, vegetables",Non-Veg,350,26.2006,92.9376,5,3,5
+421,Rajasthani,Daal Baati,"Lentils, bread, ghee",Veg,280,26.9124,75.7873,4,2,4
+422,Bengali,Shorshe Ilish,"Hilsa fish, mustard sauce",Non-Veg,550,22.5726,88.3639,5,4,5
+423,Punjabi,Roti,"Wheat flour, water",Veg,50,30.7333,76.7794,4,1,1
+424,South Indian,Adai,"Lentils, rice, spices",Veg,220,12.9716,77.5946,4,1,3
+425,Continental,Pancakes,"Flour, eggs, milk",Veg,300,48.8566,2.3522,5,3,4
+426,North Indian,Aloo Tikki,"Potatoes, spices",Veg,120,28.6139,77.2090,3,1,2
+427,Chinese,Sweet and Sour Chicken,"Chicken, vegetables, sauce",Non-Veg,400,39.9042,116.4074,5,4,4
+428,Gujarati,Patra,"Gram flour, spices",Veg,150,22.2587,71.1924,3,1,2
+429,North-East,Thukpa,"Noodles, meat, vegetables",Non-Veg,350,26.2006,92.9376,5,4,5
+430,Rajasthani,Ker Sangri,"Desert beans, spices",Veg,300,26.9124,75.7873,4,2,4
+431,Bengali,Chingri Malai Curry,"Prawns, coconut milk, spices",Non-Veg,500,22.5726,88.3639,5,4,5
+432,Punjabi,Paneer Butter Masala,"Paneer, butter, cream",Veg,300,30.7333,76.7794,5,3,5
+433,South Indian,Bisi Bele Bath,"Rice, lentils, spices",Veg,300,12.9716,77.5946,5,4,4
+434,Continental,Chocolate Mousse,"Chocolate, cream, sugar",Veg,450,48.8566,2.3522,5,4,4
+435,North Indian,Chole Bhature,"Chickpeas, bread, spices",Veg,300,28.6139,77.2090,5,4,4
+436,Chinese,Fried Rice,"Rice, vegetables, soy sauce",Veg,250,39.9042,116.4074,4,1,3
+437,Gujarati,Khichu,"Rice flour, spices, oil",Veg,120,22.2587,71.1924,4,1,2
+438,North-East,Aloo Pitika,"Potatoes, mustard oil, spices",Veg,150,26.2006,92.9376,4,1,2
+439,Rajasthani,Daal Bafla,"Lentils, bread, ghee",Veg,300,26.9124,75.7873,5,3,4
+440,Bengali,Macher Jhol,"Fish, potatoes, spices",Non-Veg,400,22.5726,88.3639,5,3,4
+441,Punjabi,Gobhi Aloo,"Cauliflower, potatoes, spices",Veg,220,30.7333,76.7794,4,1,3
+442,South Indian,Idli Dosa,"Rice, lentils, spices",Veg,250,12.9716,77.5946,4,1,3
+443,Continental,Bruschetta,"Bread, tomatoes, basil",Veg,200,48.8566,2.3522,4,2,3
+444,North Indian,Palak Chole,"Spinach, chickpeas, spices",Veg,220,28.6139,77.2090,4,1,3
+445,Chinese,Schezwan Noodles,"Noodles, vegetables, spices",Veg,220,39.9042,116.4074,4,1,3
+446,Gujarati,Dhokli Turiya,"Wheat flour, spices, vegetables",Veg,250,22.2587,71.1924,4,2,3
+447,North-East,Masoor Daal,"Red lentils, spices",Veg,150,26.2006,92.9376,4,1,2
+448,Rajasthani,Daal Bafla,"Lentils, bread, ghee",Veg,300,26.9124,75.7873,5,3,4
+449,Bengali,Chingri Malai Curry,"Prawns, coconut milk, spices",Non-Veg,500,22.5726,88.3639,5,4,5
+450,Punjabi,Paneer Tikka,"Paneer, spices, yogurt",Veg,400,30.7333,76.7794,5,3,5
+451,South Indian,Bisi Bele Bath,"Rice, lentils, spices",Veg,300,12.9716,77.5946,5,3,4
+452,Continental,Chocolate Mousse,"Chocolate, cream, sugar",Veg,450,48.8566,2.3522,5,4,4
+453,North Indian,Chole Bhature,"Chickpeas, bread, spices",Veg,300,28.6139,77.2090,5,4,4
+454,Chinese,Fried Rice,"Rice, vegetables, soy sauce",Veg,250,39.9042,116.4074,4,1,3
+455,Gujarati,Khichu,"Rice flour, spices, oil",Veg,120,22.2587,71.1924,4,1,2
+456,North-East,Aloo Pitika,"Potatoes, mustard oil, spices",Veg,150,26.2006,92.9376,4,1,2
+457,Rajasthani,Daal Bafla,"Lentils, bread, ghee",Veg,300,26.9124,75.7873,5,3,4
+458,Bengali,Macher Jhol,"Fish, potatoes, spices",Non-Veg,400,22.5726,88.3639,5,3,4
+459,Punjabi,Gobhi Aloo,"Cauliflower, potatoes, spices",Veg,220,30.7333,76.7794,4,1,3
+460,South Indian,Idli Dosa,"Rice, lentils, spices",Veg,250,12.9716,77.5946,4,1,3
+461,Continental,Bruschetta,"Bread, tomatoes, basil",Veg,200,48.8566,2.3522,4,2,3
+462,North Indian,Palak Chole,"Spinach, chickpeas, spices",Veg,220,28.6139,77.2090,4,1,3
+463,Chinese,Schezwan Noodles,"Noodles, vegetables, spices",Veg,220,39.9042,116.4074,4,1,3
+464,Gujarati,Dhokli Turiya,"Wheat flour, spices, vegetables",Veg,250,22.2587,71.1924,4,2,3
+465,North-East,Masoor Daal,"Red lentils, spices",Veg,150,26.2006,92.9376,4,1,2
+466,Rajasthani,Daal Bafla,"Lentils, bread, ghee",Veg,300,26.9124,75.7873,5,3,4
+467,Bengali,Chingri Malai Curry,"Prawns, coconut milk, spices",Non-Veg,500,22.5726,88.3639,5,4,5
+468,Punjabi,Paneer Butter Masala,"Paneer, butter, cream",Veg,300,30.7333,76.7794,5,3,5
+469,South Indian,Bisi Bele Bath,"Rice, lentils, spices",Veg,300,12.9716,77.5946,5,4,4
+470,Continental,Chocolate Mousse,"Chocolate, cream, sugar",Veg,450,48.8566,2.3522,5,4,4
+471,North Indian,Chole Bhature,"Chickpeas, bread, spices",Veg,300,28.6139,77.2090,5,4,4
+472,Chinese,Fried Rice,"Rice, vegetables, soy sauce",Veg,250,39.9042,116.4074,4,1,3
+473,Gujarati,Khichu,"Rice flour, spices, oil",Veg,120,22.2587,71.1924,4,1,2
+474,North-East,Aloo Pitika,"Potatoes, mustard oil, spices",Veg,150,26.2006,92.9376,4,1,2
+475,Rajasthani,Daal Bafla,"Lentils, bread, ghee",Veg,300,26.9124,75.7873,5,3,4
+476,Bengali,Macher Jhol,"Fish, potatoes, spices",Non-Veg,400,22.5726,88.3639,5,3,4
+477,Punjabi,Gobhi Aloo,"Cauliflower, potatoes, spices",Veg,220,30.7333,76.7794,4,1,3
+478,South Indian,Idli Dosa,"Rice, lentils, spices",Veg,250,12.9716,77.5946,4,1,3
+479,Continental,Bruschetta,"Bread, tomatoes, basil",Veg,200,48.8566,2.3522,4,2,3
+480,North Indian,Palak Chole,"Spinach, chickpeas, spices",Veg,220,28.6139,77.2090,4,1,3
+481,Chinese,Schezwan Noodles,"Noodles, vegetables, spices",Veg,220,39.9042,116.4074,4,1,3
+482,Gujarati,Dhokli Turiya,"Wheat flour, spices, vegetables",Veg,250,22.2587,71.1924,4,2,3
+483,North-East,Masoor Daal,"Red lentils, spices",Veg,150,26.2006,92.9376,4,1,2
+484,Rajasthani,Daal Bafla,"Lentils, bread, ghee",Veg,300,26.9124,75.7873,5,3,4
+485,Bengali,Chingri Malai Curry,"Prawns, coconut milk, spices",Non-Veg,500,22.5726,88.3639,5,4,5
+486,Punjabi,Paneer Butter Masala,"Paneer, butter, cream",Veg,300,30.7333,76.7794,5,3,5
+487,South Indian,Bisi Bele Bath,"Rice, lentils, spices",Veg,300,12.9716,77.5946,5,4,4
+488,Continental,Chocolate Mousse,"Chocolate, cream, sugar",Veg,450,48.8566,2.3522,5,4,4
+489,North Indian,Chole Bhature,"Chickpeas, bread, spices",Veg,300,28.6139,77.2090,5,4,4
+490,Chinese,Fried Rice,"Rice, vegetables, soy sauce",Veg,250,39.9042,116.4074,4,1,3
+491,Gujarati,Khichu,"Rice flour, spices, oil",Veg,120,22.2587,71.1924,4,1,2
+492,North-East,Aloo Pitika,"Potatoes, mustard oil, spices",Veg,150,26.2006,92.9376,4,1,2
+493,Rajasthani,Daal Bafla,"Lentils, bread, ghee",Veg,300,26.9124,75.7873,5,3,4
+494,Bengali,Macher Jhol,"Fish, potatoes, spices",Non-Veg,400,22.5726,88.3639,5,3,4
+495,Punjabi,Gobhi Aloo,"Cauliflower, potatoes, spices",Veg,220,30.7333,76.7794,4,1,3
+496,South Indian,Idli Dosa,"Rice, lentils, spices",Veg,250,12.9716,77.5946,4,1,3
+497,Continental,Bruschetta,"Bread, tomatoes, basil",Veg,200,48.8566,2.3522,4,2,3
+498,North Indian,Palak Chole,"Spinach, chickpeas, spices",Veg,220,28.6139,77.2090,4,1,3
+499,Chinese,Schezwan Noodles,"Noodles, vegetables, spices",Veg,220,39.9042,116.4074,4,1,3
+500,Gujarati,Dhokli Turiya,"Wheat flour, spices, vegetables",Veg,250,22.2587,71.1924,4,2,3
+
