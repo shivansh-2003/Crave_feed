@@ -1,6 +1,14 @@
+import os
 import pandas as pd
 import numpy as np
 from math import radians, cos, sin, sqrt, atan2
+from dotenv import load_dotenv
+
+# Load environment variables from .env file
+load_dotenv()
+
+# Access OpenAI API key
+openai_api_key = os.getenv('OPENAI_API_KEY')
 
 # Function to calculate haversine distance between two lat/lon points
 def haversine(lat1, lon1, lat2, lon2):
