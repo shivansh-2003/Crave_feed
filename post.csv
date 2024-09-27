@@ -1,0 +1,502 @@
+post_id,cuisine,dish_name,veg_or_nonveg,no_of_likes,latitude,longitude,sweetness,sourness,spice_level
+1,North-East,Thukpa,Non-Veg,120,27.4989,91.3603,3,2,4
+2,Rajasthani,Dal Baati Churma,Veg,95,26.4853,74.6399,4,1,3
+3,Bengali,Macher Jhol,Non-Veg,150,22.5697,88.3690,2,3,5
+4,Punjabi,Butter Chicken,Non-Veg,200,30.9009,75.8573,3,1,5
+5,South Indian,Masala Dosa,Veg,180,13.3396,80.2025,4,2,2
+6,Continental,Cheese Garlic Bread,Veg,90,28.7041,77.1025,5,1,1
+7,North Indian,Paneer Tikka,Veg,110,28.4595,77.0266,4,1,3
+8,Chinese,Chow Mein,Veg,130,34.0522,118.2437,3,2,4
+9,Gujarati,Dhokla,Veg,140,22.3072,72.3271,5,1,2
+10,North-East,Smoked Pork,Veg,75,26.1516,93.9583,2,4,5
+11,Rajasthani,Gatte ki Sabzi,Non-Veg,85,27.0238,74.2176,3,1,3
+12,Bengali,Shorshe Ilish,Non-Veg,160,22.9788,88.1820,3,3,4
+13,Punjabi,Tandoori Roti,Veg,100,30.7333,76.7794,4,1,2
+14,South Indian,Sambar,Veg,125,12.9716,77.5946,3,2,3
+15,Continental,Spaghetti Aglio e Olio,Veg,110,41.9028,12.4964,3,2,1
+16,North Indian,Chole Bhature,Veg,130,28.7041,77.1025,4,1,3
+17,Chinese,Manchurian,Veg,150,22.3026,70.8022,4,1,5
+18,Gujarati,Undhiyu,Veg,160,22.3072,72.3271,5,1,2
+19,North-East,Ema Datshi,Veg,90,27.1417,90.5120,4,1,4
+20,Rajasthani,Ker Sangri,Veg,80,26.3050,73.9465,2,2,3
+21,Bengali,Shorshe Prawns,Non-Veg,95,22.5697,88.3690,3,2,5
+22,Punjabi,Rajma Chawal,Veg,150,30.9009,75.8573,4,1,3
+23,South Indian,Idli,Veg,120,13.0827,80.2707,3,1,1
+24,Continental,Garlic Bread,Veg,80,51.5074,-0.1278,5,1,1
+25,North Indian,Biryani,Non-Veg,200,28.4595,77.0266,4,2,5
+26,Chinese,Sweet and Sour Pork,Non-Veg,70,34.0522,118.2437,2,3,4
+27,Gujarati,Khandvi,Veg,110,22.3072,72.3271,5,1,1
+28,North-East,Chicken Bamboo Shoot,Non-Veg,95,27.4989,91.3603,3,2,4
+29,Rajasthani,Pyaaz Kachori,Veg,125,26.4853,74.6399,4,1,3
+30,Bengali,Chingri Malai Curry,Non-Veg,140,22.9788,88.1820,2,3,5
+31,Punjabi,Lassi,Veg,90,30.7333,76.7794,5,1,1
+32,South Indian,Vada,Veg,130,12.9716,77.5946,3,2,2
+33,Continental,Caesar Salad,Veg,85,41.9028,12.4964,4,1,1
+34,North Indian,Palak Paneer,Veg,160,28.7041,77.1025,4,1,2
+35,Chinese,Fried Rice,Veg,150,22.3026,70.8022,3,2,4
+36,Gujarati,Dal Dhokli,Veg,125,22.3072,72.3271,4,1,3
+37,North-East,Pork with Bamboo Shoot,Non-Veg,75,26.1516,93.9583,3,3,5
+38,Rajasthani,Laal Maas,Non-Veg,135,27.0238,74.2176,3,2,5
+39,Bengali,Cholar Dal,Veg,110,22.9788,88.1820,4,1,2
+40,Punjabi,Chole,Vegetarian,145,30.9009,75.8573,4,1,3
+41,South Indian,Upma,Veg,105,12.9716,77.5946,3,1,2
+42,Continental,Pasta Primavera,Veg,125,51.5074,-0.1278,4,1,1
+43,North Indian,Kadai Paneer,Veg,155,28.4595,77.0266,5,1,4
+44,Chinese,Spring Rolls,Veg,135,22.3026,70.8022,5,2,3
+45,Gujarati,Patra,Veg,80,22.3072,72.3271,2,1,2
+46,North-East,Dzongu Chicken,Non-Veg,115,27.4989,91.3603,3,2,4
+47,Rajasthani,Baati,Vegetarian,90,26.4853,74.6399,4,1,3
+48,Bengali,Kosha Mangsho,Non-Veg,150,22.5697,88.3690,3,3,5
+49,Punjabi,Aloo Paratha,Veg,180,30.7333,76.7794,4,1,3
+50,South Indian,Pongal,Veg,130,12.9716,77.5946,5,1,2
+51,Continental,Beef Stroganoff,Non-Veg,70,51.5074,-0.1278,3,2,4
+52,North Indian,Vegetable Biryani,Veg,110,28.7041,77.1025,3,1,3
+53,Chinese,Hot and Sour Soup,Veg,85,22.3026,70.8022,3,3,3
+54,Gujarati,Sev Tameta,Vegetarian,95,22.3072,72.3271,4,1,2
+55,North-East,Khasi Pork,Non-Veg,90,26.1516,93.9583,3,3,5
+56,Rajasthani,Churma,Vegetarian,80,27.0238,74.2176,5,1,2
+57,Bengali,Aloo Posto,Veg,140,22.5697,88.3690,4,1,1
+58,Punjabi,Paneer Butter Masala,Veg,200,30.9009,75.8573,4,1,4
+59,South Indian,Avial,Veg,110,12.9716,77.5946,4,2,2
+60,Continental,Quiche,Veg,95,51.5074,-0.1278,4,1,1
+61,North Indian,Dum Aloo,Veg,160,28.4595,77.0266,3,1,3
+62,Chinese,Szechuan Noodles,Veg,130,22.3026,70.8022,3,2,5
+63,Gujarati,Dal,Vegetarian,90,22.3072,72.3271,3,1,1
+64,North-East,Thukpa,Non-Veg,120,27.4989,91.3603,3,2,4
+65,Rajasthani,Gatte Ki Sabzi,Veg,140,26.4853,74.6399,4,1,3
+66,Bengali,Mochar Ghonto,Veg,125,22.5697,88.3690,3,2,2
+67,Punjabi,Sarson Da Saag,Veg,130,30.9009,75.8573,4,1,3
+68,South Indian,Medu Vada,Veg,115,13.0827,80.2707,4,1,2
+69,Continental,Vegetable Stir Fry,Veg,80,41.9028,12.4964,4,1,1
+70,North Indian,Palak Chole,Veg,150,28.7041,77.1025,3,1,3
+71,Chinese,Gong Bao Chicken,Non-Veg,110,34.0522,118.2437,4,2,5
+72,Gujarati,Dhokla,Vegetarian,140,22.3072,72.3271,5,1,2
+73,North-East,Smoked Beef,Veg,75,26.1516,93.9583,2,4,5
+74,Rajasthani,Ker Sangri,Veg,85,27.0238,74.2176,3,2,3
+75,Bengali,Pulao,Vegetarian,130,22.9788,88.1820,4,1,2
+76,Punjabi,Lassi,Veg,170,30.7333,76.7794,5,1,1
+77,South Indian,Venn Pongal,Veg,140,12.9716,77.5946,4,2,2
+78,Continental,Baked Ziti,Veg,95,51.5074,-0.1278,4,1,1
+79,North Indian,Aloo Gobi,Veg,160,28.4595,77.0266,4,1,3
+80,Chinese,Spring Rolls,Veg,120,22.3026,70.8022,5,2,2
+81,Gujarati,Undhiyu,Veg,110,22.3072,72.3271,5,1,2
+82,North-East,Chura Sabji,Veg,95,27.4989,91.3603,4,1,4
+83,Rajasthani,Dal Bati Churma,Veg,125,26.4853,74.6399,4,1,3
+84,Bengali,Pati Shapta,Veg,150,22.5697,88.3690,3,3,2
+85,Punjabi,Paneer Tikka,Veg,200,30.9009,75.8573,4,1,4
+86,South Indian,Rasam,Veg,180,13.3396,80.2025,4,2,2
+87,Continental,Chocolate Mousse,Veg,100,41.9028,12.4964,5,1,1
+88,North Indian,Chicken Curry,Non-Veg,150,28.704
+89,Chinese,Chili Chicken,Non-Veg,130,22.3026,70.8022,3,3,4
+90,Gujarati,Khichdi,Veg,95,22.3072,72.3271,4,1,1
+91,North-East,Chicken Ema Datshi,Non-Veg,120,27.1417,90.5120,4,1,4
+92,Rajasthani,Bhindi Masala,Veg,110,27.0238,74.2176,5,1,2
+93,Bengali,Dhokli,Vegetarian,140,22.5697,88.3690,3,2,2
+94,Punjabi,Biryani,Non-Veg,150,30.9009,75.8573,3,1,5
+95,South Indian,Kootu,Veg,130,12.9716,77.5946,3,2,3
+96,Continental,Vegetable Lasagna,Veg,95,51.5074,-0.1278,4,1,1
+97,North Indian,Bhindi Masala,Veg,125,28.4595,77.0266,4,1,3
+98,Chinese,Kung Pao Chicken,Non-Veg,145,34.0522,118.2437,3,2,5
+99,Gujarati,Dhokla,Veg,110,22.3072,72.3271,5,1,1
+100,North-East,Pork with Bamboo Shoot,Non-Veg,95,26.1516,93.9583,3,3,5
+101,Bengali,Shorshe Ilish,Non-Veg,160,22.5697,88.3690,3,3,4
+102,Punjabi,Dal Makhani,Veg,185,30.9009,75.8573,4,1,2
+103,South Indian,Masala Dosa,Veg,220,13.0827,80.2707,4,1,3
+104,Continental,Grilled Cheese Sandwich,Veg,75,51.5074,-0.1278,5,1,1
+105,North Indian,Butter Chicken,Non-Veg,250,28.4595,77.0266,3,1,5
+106,Chinese,Chili Garlic Noodles,Veg,145,34.0522,118.2437,2,2,4
+107,Gujarati,Thepla,Veg,130,22.3072,72.3271,5,1,2
+108,North-East,Chicken Wungw,Non-Veg,105,27.4989,91.3603,4,2,4
+109,Rajasthani,Gatte Ki Sabzi,Veg,140,26.4853,74.6399,4,1,3
+110,Bengali,Bhetki Paturi,Non-Veg,135,22.9788,88.1820,3,3,5
+111,Punjabi,Sarson Da Saag,Veg,95,30.7333,76.7794,4,1,2
+112,South Indian,Appam,Veg,85,12.9716,77.5946,3,1,2
+113,Continental,Vegetable Soup,Veg,70,41.9028,12.4964,4,1,1
+114,North Indian,Chole Bhature,Veg,155,28.7041,77.1025,3,1,3
+115,Chinese,Fried Noodles,Veg,125,22.3026,70.8022,3,2,5
+116,Gujarati,Sev Khaman,Veg,110,22.3072,72.3271,4,1,3
+117,North-East,Pork with Black Bean Sauce,Non-Veg,90,26.1516,93.9583,3,2,4
+118,Rajasthani,Dal Baati Churma,Veg,175,27.0238,74.2176,4,1,5
+119,Bengali,Chingri Bhapa,Non-Veg,150,22.5697,88.3690,4,2,3
+120,Punjabi,Aloo Tikki,Veg,120,30.9009,75.8573,5,1,3
+121,South Indian,Sambar,Veg,130,13.0827,80.2707,4,1,2
+122,Continental,Spinach Quiche,Veg,80,51.5074,-0.1278,5,1,1
+123,North Indian,Paneer Tikka,Veg,145,28.4595,77.0266,5,1,4
+124,Chinese,Spring Rolls,Veg,95,22.3026,70.8022,4,1,2
+125,Gujarati,Dal Dhokli,Veg,110,22.3072,72.3271,5,1,1
+126,North-East,Thukpa,Non-Veg,100,27.4989,91.3603,3,2,4
+127,Rajasthani,Mirchi Vada,Veg,90,26.4853,74.6399,4,1,3
+128,Bengali,Posto Bori,Veg,140,22.9788,88.1820,5,1,2
+129,Punjabi,Lassi,Veg,155,30.7333,76.7794,5,1,1
+130,South Indian,Dhokla,Veg,135,12.9716,77.5946,4,1,2
+131,Continental,Roasted Vegetables,Veg,100,41.9028,12.4964,4,1,1
+132,North Indian,Vegetable Jalfrezi,Veg,170,28.7041,77.1025,3,1,3
+133,Chinese,Chow Mein,Veg,125,22.3026,70.8022,3,2,4
+134,Gujarati,Chaas,Veg,90,22.3072,72.3271,4,1,1
+135,North-East,Bamboo Shoot Curry,Veg,115,27.4989,91.3603,4,1,3
+136,Rajasthani,Baida Roti,Non-Veg,135,27.0238,74.2176,3,2,4
+137,Bengali,Rui Macher Jhol,Non-Veg,160,22.5697,88.3690,3,3,4
+138,Punjabi,Palak Paneer,Veg,190,30.9009,75.8573,4,1,2
+139,South Indian,Curd Rice,Veg,120,13.0827,80.2707,5,1,1
+140,Continental,Cheese Fondue,Veg,75,51.5074,-0.1278,5,1,1
+141,North Indian,Keema Naan,Non-Veg,150,28.4595,77.0266,3,2,5
+142,Chinese,Tandoori Chicken,Non-Veg,130,34.0522,118.2437,4,2,5
+143,Gujarati,Puran Poli,Veg,140,22.3072,72.3271,5,1,2
+144,North-East,Smoked Pork,Veg,95,26.1516,93.9583,3,4,5
+145,Rajasthani,Dal Churma,Veg,110,27.0238,74.2176,4,1,3
+146,Bengali,Chingri Macher Malai Curry,Non-Veg,180,22.9788,88.1820,4,2,5
+147,Punjabi,Paneer Butter Masala,Veg,200,30.7333,76.7794,4,1,4
+148,South Indian,Vegetable Biryani,Veg,150,12.9716,77.5946,3,1,3
+149,Continental,Baked Beans on Toast,Veg,80,41.9028,12.4964,3,1,1
+150,North Indian,Biriyani,Non-Veg,155,28.7041,77.1025,4,1,4
+151,Chinese,Manchurian,Non-Veg,140,22.3026,70.8022,3,2,5
+152,Gujarati,Dhokla,Veg,135,22.3072,72.3271,5,1,2
+153,North-East,Pork with Bamboo Shoots,Non-Veg,110,27.4989,91.3603,3,3,4
+154,Rajasthani,Laal Maas,Non-Veg,160,26.4853,74.6399,4,2,5
+155,Bengali,Shorshe Ilish,Non-Veg,155,22.5697,88.3690,3,2,4
+156,Punjabi,Chole,Vegetarian,140,30.9009,75.8573,4,1,3
+157,South Indian,Rasamalai,Veg,120,13.0827,80.2707,5,1,1
+158,Continental,Vegetable Stir Fry,Veg,75,51.5074,-0.1278,4,1,1
+159,North Indian,Malai Kofta,Veg,150,28.4595,77.0266,5,1,3
+160,Chinese,Szechuan Chicken,Non-Veg,125,34.0522,118.2437,3,3,5
+161,Gujarati,Kadhi,Veg,110,22.3072,72.3271,4,1,2
+162,North-East,Thukpa,Non-Veg,90,26.1516,93.9583,4,2,4
+163,Rajasthani,Paneer Tikka,Vegetarian,140,27.0238,74.2176,5,1,3
+164,Bengali,Chingri Bhapa,Non-Veg,150,22.9788,88.1820,3,2,5
+165,Punjabi,Biryani,Non-Veg,165,30.7333,76.7794,4,1,4
+166,South Indian,Pongal,Veg,110,12.9716,77.5946,3,1,2
+167,Continental,Vegetable Burger,Veg,85,41.9028,12.4964,4,1,1
+168,North Indian,Vegetable Korma,Veg,125,28.7041,77.1025,4,1,3
+169,Chinese,Fried Rice,Veg,135,22.3026,70.8022,4,1,3
+170,Gujarati,Chole Bhature,Veg,115,22.3072,72.3271,5,1,3
+171,North-East,Smoked Chicken,Non-Veg,140,27.4989,91.3603,3,2,4
+172,Rajasthani,Gatte Ki Sabzi,Veg,130,26.4853,74.6399,4,1,2
+173,Bengali,Macher Jhol,Non-Veg,160,22.5697,88.3690,3,2,4
+174,Punjabi,Amritsari Kulcha,Veg,150,30.9009,75.8573,4,1,2
+175,South Indian,Vegetable Curry,Veg,140,13.0827,80.2707,5,1,2
+176,Continental,Vegetable Salad,Veg,75,51.5074,-0.1278,4,1,1
+177,North Indian,Aloo Gobi,Veg,120,28.4595,77.0266,5,1,3
+178,Chinese,Chili Chicken,Non-Veg,145,34.0522,118.2437,3,2,4
+179,Gujarati,Patra,Veg,130,22.3072,72.3271,4,1,1
+180,North-East,Chicken Wungw,Non-Veg,90,26.1516,93.9583,3,2,5
+181,Bengali,Macher Jhol,Non-Veg,165,22.5697,88.3690,3,2,4
+182,Punjabi,Aloo Paratha,Veg,190,30.9009,75.8573,5,1,3
+183,South Indian,Vada,Veg,140,13.0827,80.2707,3,1,3
+184,Continental,Caprese Salad,Veg,75,51.5074,-0.1278,4,1,1
+185,North Indian,Paneer Butter Masala,Veg,210,28.4595,77.0266,5,1,3
+186,Chinese,Kung Pao Chicken,Non-Veg,155,34.0522,118.2437,3,2,5
+187,Gujarati,Dhokla,Veg,160,22.3072,72.3271,4,1,2
+188,North-East,Smoked Pork,Veg,100,26.1516,93.9583,3,3,4
+189,Rajasthani,Gatte Ki Sabzi,Veg,140,27.0238,74.2176,4,1,3
+190,Bengali,Rui Macher Jhol,Non-Veg,180,22.9788,88.1820,3,2,4
+191,Punjabi,Tandoori Chicken,Non-Veg,200,30.7333,76.7794,4,2,5
+192,South Indian,Vegetable Biryani,Veg,155,12.9716,77.5946,4,1,3
+193,Continental,Stuffed Bell Peppers,Veg,85,41.9028,12.4964,4,1,1
+194,North Indian,Chole Bhature,Veg,190,28.7041,77.1025,5,1,2
+195,Chinese,Spring Rolls,Veg,145,22.3026,70.8022,4,1,2
+196,Gujarati,Puran Poli,Veg,135,22.3072,72.3271,5,1,1
+197,North-East,Thukpa,Non-Veg,130,27.4989,91.3603,4,2,4
+198,Rajasthani,Laal Maas,Non-Veg,150,26.4853,74.6399,5,2,5
+199,Bengali,Chingri Malai Curry,Non-Veg,175,22.5697,88.3690,4,3,5
+200,Punjabi,Dal Makhani,Veg,180,30.9009,75.8573,5,1,2
+201,South Indian,Rasam,Veg,120,13.0827,80.2707,4,1,3
+202,Continental,Mushroom Risotto,Veg,90,51.5074,-0.1278,4,1,2
+203,North Indian,Vegetable Jalfrezi,Veg,140,28.4595,77.0266,3,1,3
+204,Chinese,Fried Rice,Veg,130,34.0522,118.2437,3,1,4
+205,Gujarati,Sev Tameta,Veg,140,22.3072,72.3271,4,1,2
+206,North-East,Pork with Bamboo Shoots,Non-Veg,110,26.1516,93.9583,3,4,4
+207,Rajasthani,Dal Baati Churma,Veg,145,27.0238,74.2176,5,1,3
+208,Bengali,Posto Bori,Veg,160,22.9788,88.1820,5,1,1
+209,Punjabi,Biryani,Non-Veg,155,30.7333,76.7794,4,1,4
+210,South Indian,Idli,Veg,140,12.9716,77.5946,4,1,1
+211,Continental,Cheese Cake,Veg,75,41.9028,12.4964,5,1,1
+212,North Indian,Aloo Gobi,Veg,135,28.7041,77.1025,5,1,2
+213,Chinese,Chili Chicken,Non-Veg,170,22.3026,70.8022,3,2,5
+214,Gujarati,Dal Dhokli,Veg,90,22.3072,72.3271,4,1,1
+215,North-East,Chicken Wungw,Non-Veg,120,27.4989,91.3603,3,2,4
+216,Rajasthani,Paneer Tikka,Vegetarian,155,26.4853,74.6399,4,1,3
+217,Bengali,Macher Jhol,Non-Veg,145,22.5697,88.3690,3,2,4
+218,Punjabi,Aloo Paratha,Veg,200,30.9009,75.8573,5,1,3
+219,South Indian,Vada,Veg,140,13.0827,80.2707,3,1,3
+220,Continental,Caprese Salad,Veg,85,51.5074,-0.1278,4,1,1
+221,North Indian,Paneer Butter Masala,Veg,210,28.4595,77.0266,5,1,3
+222,Chinese,Kung Pao Chicken,Non-Veg,155,34.0522,118.2437,3,2,5
+223,Gujarati,Dhokla,Veg,160,22.3072,72.3271,4,1,2
+224,North-East,Smoked Pork,Veg,100,26.1516,93.9583,3,3,4
+225,Rajasthani,Gatte Ki Sabzi,Veg,140,27.0238,74.2176,4,1,3
+226,Bengali,Rui Macher Jhol,Non-Veg,180,22.9788,88.1820,3,2,4
+227,Punjabi,Tandoori Chicken,Non-Veg,200,30.7333,76.7794,4,2,5
+228,South Indian,Vegetable Biryani,Veg,155,12.9716,77.5946,4,1,3
+229,Continental,Stuffed Bell Peppers,Veg,85,41.9028,12.4964,4,1,1
+230,North Indian,Chole Bhature,Veg,190,28.7041,77.1025,5,1,2
+231,Chinese,Spring Rolls,Veg,145,22.3026,70.8022,4,1,2
+232,Gujarati,Puran Poli,Veg,135,22.3072,72.3271,5,1,1
+233,North-East,Thukpa,Non-Veg,130,27.4989,91.3603,4,2,4
+234,Rajasthani,Laal Maas,Non-Veg,150,26.4853,74.6399,5,2,5
+235,Bengali,Chingri Malai Curry,Non-Veg,175,22.5697,88.3690,4,3,5
+236,Punjabi,Dal Makhani,Veg,180,30.9009,75.8573,5,1,2
+237,South Indian,Rasam,Veg,120,13.0827,80.2707,4,1,3
+238,Continental,Mushroom Risotto,Veg,90,51.5074,-0.1278,4,1,2
+239,North Indian,Vegetable Jalfrezi,Veg,140,28.4595,77.0266,3,1,3
+240,Chinese,Fried Rice,Veg,130,34.0522,118.2437,3,1,4
+241,Gujarati,Sev Tameta,Veg,140,22.3072,72.3271,4,1,2
+242,North-East,Pork with Bamboo Shoots,Non-Veg,110,26.1516,93.9583,3,4,4
+243,Rajasthani,Dal Baati Churma,Veg,145,27.0238,74.2176,5,1,3
+244,Bengali,Posto Bori,Veg,160,22.9788,88.1820,5,1,1
+245,Punjabi,Biryani,Non-Veg,155,30.7333,76.7794,4,1,4
+246,South Indian,Idli,Veg,140,12.9716,77.5946,4,1,1
+247,Continental,Cheese Cake,Veg,75,41.9028,12.4964,5,1,1
+248,North Indian,Aloo Gobi,Veg,135,28.7041,77.1025,5,1,2
+249,Chinese,Chili Chicken,Non-Veg,170,22.3026,70.8022,3,2,5
+250,Gujarati,Dal Dhokli,Veg,90,22.3072,72.3271,4,1,1
+251,North-East,Chicken Curry,Non-Veg,170,26.1516,93.9583,3,2,4
+252,Rajasthani,Baati,Non-Veg,130,27.0238,74.2176,4,1,3
+253,Bengali,Dhokar Dalna,Veg,165,22.5697,88.3690,5,2,1
+254,Punjabi,Paneer Tikka,Veg,190,30.9009,75.8573,4,1,2
+255,South Indian,Masala Dosa,Veg,220,13.0827,80.2707,5,1,4
+256,Continental,Vegetable Quiche,Veg,80,51.5074,-0.1278,4,1,1
+257,North Indian,Palak Paneer,Veg,175,28.4595,77.0266,5,1,3
+258,Chinese,Manchurian,Non-Veg,150,34.0522,118.2437,3,2,5
+259,Gujarati,Undhiyu,Veg,180,22.3072,72.3271,4,1,2
+260,North-East,Thukpa,Non-Veg,140,27.4989,91.3603,3,2,4
+261,Rajasthani,Daal Baati Churma,Veg,160,26.4853,74.6399,5,1,3
+262,Bengali,Shorshe Ilish,Non-Veg,190,22.5697,88.3690,4,2,5
+263,Punjabi,Dum Aloo,Veg,175,30.9009,75.8573,5,1,2
+264,South Indian,Sambar,Veg,145,13.0827,80.2707,4,1,3
+265,Continental,Pasta Primavera,Veg,90,51.5074,-0.1278,4,1,2
+266,North Indian,Dum Biryani,Non-Veg,200,28.4595,77.0266,5,2,5
+267,Chinese,Hakka Noodles,Veg,160,34.0522,118.2437,3,2,4
+268,Gujarati,Khadi,Veg,155,22.3072,72.3271,4,1,1
+269,North-East,Smoked Fish,Non-Veg,120,26.1516,93.9583,3,2,5
+270,Rajasthani,Kadi,Veg,140,27.0238,74.2176,4,1,2
+271,Bengali,Chingri Malai Curry,Non-Veg,180,22.5697,88.3690,4,3,4
+272,Punjabi,Kulcha,Veg,200,30.9009,75.8573,5,1,3
+273,South Indian,Upma,Veg,155,13.0827,80.2707,4,1,2
+274,Continental,Garlic Bread,Veg,75,51.5074,-0.1278,5,1,1
+275,North Indian,Aloo Mutter,Veg,180,28.4595,77.0266,5,1,3
+276,Chinese,Spring Rolls,Veg,140,34.0522,118.2437,3,2,2
+277,Gujarati,Poori,Veg,130,22.3072,72.3271,4,1,1
+278,North-East,Chicken Wungw,Non-Veg,130,26.1516,93.9583,4,2,3
+279,Rajasthani,Daal Baati,Vegetarian,140,26.4853,74.6399,5,1,4
+280,Bengali,Mutton Biryani,Non-Veg,170,22.5697,88.3690,4,2,5
+281,Punjabi,Palak Chole,Veg,185,30.9009,75.8573,4,1,3
+282,South Indian,Pongal,Veg,150,13.0827,80.2707,4,1,2
+283,Continental,Vegetable Stir Fry,Veg,85,51.5074,-0.1278,4,1,1
+284,North Indian,Rajma,Veg,160,28.4595,77.0266,5,1,3
+285,Chinese,Crispy Fried Noodles,Veg,130,34.0522,118.2437,3,2,4
+286,Gujarati,Dhokla,Veg,110,22.3072,72.3271,5,1,1
+287,North-East,Thukpa,Non-Veg,125,26.1516,93.9583,3,2,4
+288,Rajasthani,Gatte Ki Sabzi,Veg,140,27.0238,74.2176,4,1,3
+289,Bengali,Rui Macher Jhol,Non-Veg,160,22.5697,88.3690,4,2,5
+290,Punjabi,Tandoori Roti,Veg,175,30.9009,75.8573,5,1,2
+291,South Indian,Dosa,Veg,145,13.0827,80.2707,4,1,3
+292,Continental,Spinach Salad,Veg,95,51.5074,-0.1278,4,1,1
+293,North Indian,Chole Kulche,Veg,180,28.4595,77.0266,5,1,2
+294,Chinese,Vegetable Chowmein,Veg,135,34.0522,118.2437,3,2,3
+295,Gujarati,Sev Khaman,Veg,150,22.3072,72.3271,4,1,1
+296,North-East,Pork with Bamboo Shoots,Non-Veg,110,26.1516,93.9583,3,4,5
+297,Rajasthani,Dal Bati,Vegetarian,165,27.0238,74.2176,5,1,3
+298,Bengali,Chingri Malai Curry,Non-Veg,175,22.5697,88.3690,4,3,4
+299,Punjabi,Methi Thepla,Veg,185,30.9009,75.8573,4,1,2
+300,South Indian,Vegetable Curry,Veg,150,13.0827,80.2707,4,1,3
+301,Continental,Vegetable Lasagna,Veg,80,51.5074,-0.1278,4,1,1
+302,North Indian,Paneer Tikka,Veg,190,28.4595,77.0266,5,1,3
+303,Chinese,Chili Paneer,Veg,140,34.0522,118.2437,3,2,5
+304,Gujarati,Undhiyu,Veg,130,22.3072,72.3271,4,1,2
+305,North-East,Smoked Chicken,Non-Veg,180,26.1516,93.9583,3,2,4
+306,Rajasthani,Baati,Non-Veg,125,27.0238,74.2176,4,1,3
+307,Bengali,Dhokar Dalna,Veg,160,22.5697,88.3690,5,2,1
+308,Punjabi,Paneer Butter Masala,Veg,200,30.9009,75.8573,5,1,3
+309,South Indian,Vada,Veg,130,13.0827,80.2707,3,1,3
+310,Continental,Vegetable Quiche,Veg,90,51.5074,-0.1278,4,1,1
+311,North Indian,Palak Paneer,Veg,185,28.4595,77.0266,5,1,3
+312,Chinese,Manchurian,Non-Veg,155,34.0522,118.2437,3,2,5
+313,Gujarati,Khadi,Veg,150,22.3072,72.3271,4,1,1
+314,North-East,Chicken Wungw,Non-Veg,140,26.1516,93.9583,4,2,3
+315,Rajasthani,Daal Baati Churma,Veg,165,26.4853,74.6399,5,1,3
+316,Bengali,Shorshe Ilish,Non-Veg,190,22.5697,88.3690,4,2,5
+317,Punjabi,Dum Aloo,Veg,175,30.9009,75.8573,5,1,2
+318,South Indian,Sambar,Veg,145,13.0827,80.2707,4,1,3
+319,Continental,Pasta Primavera,Veg,85,51.5074,-0.1278,4,1,2
+320,North Indian,Dum Biryani,Non-Veg,200,28.4595,77.0266,5,2,5
+321,Chinese,Vegetable Spring Rolls,Veg,145,34.0522,118.2437,4,1,3
+322,Gujarati,Dhokla,Veg,155,22.3072,72.3271,5,1,2
+323,North-East,Momos,Non-Veg,200,26.1516,93.9583,3,2,4
+324,Rajasthani,Gatte Ki Sabzi,Veg,160,27.0238,74.2176,4,1,2
+325,Bengali,Chingri Malai Curry,Non-Veg,180,22.5697,88.3690,4,3,5
+326,Punjabi,Chole Bhature,Veg,190,30.9009,75.8573,5,1,3
+327,South Indian,Idli,Veg,210,13.0827,80.2707,5,1,2
+328,Continental,Quiche,Veg,80,51.5074,-0.1278,4,1,1
+329,North Indian,Kadai Paneer,Veg,170,28.4595,77.0266,5,1,3
+330,Chinese,Noodles,Non-Veg,155,34.0522,118.2437,3,2,4
+331,Gujarati,Thepla,Veg,165,22.3072,72.3271,4,1,2
+332,North-East,Pork Curry,Non-Veg,135,26.1516,93.9583,3,4,5
+333,Rajasthani,Methi Thepla,Veg,140,27.0238,74.2176,5,1,3
+334,Bengali,Rui Machher Jhol,Non-Veg,160,22.5697,88.3690,4,3,4
+335,Punjabi,Paneer Lababdar,Veg,180,30.9009,75.8573,5,1,3
+336,South Indian,Medu Vada,Veg,155,13.0827,80.2707,4,1,2
+337,Continental,Vegetable Risotto,Veg,90,51.5074,-0.1278,4,1,1
+338,North Indian,Malai Kofta,Veg,175,28.4595,77.0266,5,1,3
+339,Chinese,Sweet and Sour Chicken,Non-Veg,200,34.0522,118.2437,4,2,5
+340,Gujarati,Sev Tameta,Veg,150,22.3072,72.3271,4,1,2
+341,North-East,Chura Sabji,Veg,135,26.1516,93.9583,3,2,3
+342,Rajasthani,Dal Bati,Veg,160,27.0238,74.2176,5,1,3
+343,Bengali,Bhetki Macher Paturi,Non-Veg,185,22.5697,88.3690,4,3,4
+344,Punjabi,Amritsari Kulcha,Veg,200,30.9009,75.8573,5,1,2
+345,South Indian,Appam,Veg,130,13.0827,80.2707,4,1,3
+346,Continental,Vegetable Fettuccine,Veg,75,51.5074,-0.1278,4,1,1
+347,North Indian,Paneer Bhurji,Veg,190,28.4595,77.0266,5,1,3
+348,Chinese,Fried Rice,Veg,160,34.0522,118.2437,3,2,4
+349,Gujarati,Bhindi Sambhariya,Veg,140,22.3072,72.3271,4,1,2
+350,North-East,Chicken Bamboo Shoot,Non-Veg,120,26.1516,93.9583,3,2,5
+351,Rajasthani,Bajre Ki Khichdi,Veg,155,27.0238,74.2176,4,1,3
+352,Bengali,Chingri Bhapa,Non-Veg,190,22.5697,88.3690,5,2,4
+353,Punjabi,Lassi,Veg,175,30.9009,75.8573,5,1,2
+354,South Indian,Rasam,Veg,145,13.0827,80.2707,4,1,3
+355,Continental,Stuffed Peppers,Veg,85,51.5074,-0.1278,4,1,1
+356,North Indian,Palak Chaat,Veg,170,28.4595,77.0266,5,1,3
+357,Chinese,Chili Chicken,Non-Veg,190,34.0522,118.2437,4,2,5
+358,Gujarati,Puran Poli,Veg,140,22.3072,72.3271,5,1,2
+359,North-East,Wild Mushroom Curry,Veg,125,26.1516,93.9583,3,2,4
+360,Rajasthani,Gatte Ki Sabzi,Veg,160,27.0238,74.2176,4,1,3
+361,Bengali,Dhokar Dalna,Veg,175,22.5697,88.3690,5,2,1
+362,Punjabi,Kadai Chicken,Non-Veg,200,30.9009,75.8573,5,1,4
+363,South Indian,Chutney,Veg,130,13.0827,80.2707,4,1,2
+364,Continental,Creamy Mushroom Soup,Veg,95,51.5074,-0.1278,4,1,1
+365,North Indian,Aloo Chaat,Veg,160,28.4595,77.0266,5,1,3
+366,Chinese,Lemon Chicken,Non-Veg,140,34.0522,118.2437,3,2,5
+367,Gujarati,Khichdi,Veg,150,22.3072,72.3271,4,1,1
+368,North-East,Chicken Thukpa,Non-Veg,135,26.1516,93.9583,3,2,4
+369,Rajasthani,Ker Sangri,Veg,160,27.0238,74.2176,4,1,2
+370,Bengali,Bhetki Macher Jhol,Non-Veg,180,22.5697,88.3690,4,3,4
+371,Punjabi,Bhindi Masala,Veg,175,30.9009,75.8573,5,1,3
+372,South Indian,Venn Pongal,Veg,140,13.0827,80.2707,4,1,2
+373,Continental,Roasted Vegetables,Veg,80,51.5074,-0.1278,4,1,1
+374,North Indian,Dal Makhani,Veg,190,28.4595,77.0266,5,1,3
+375,Chinese,Vegetable Manchurian,Veg,150,34.0522,118.2437,3,2,4
+376,Gujarati,Chole Khichdi,Veg,165,22.3072,72.3271,4,1,2
+377,North-East,Spicy Pork Curry,Non-Veg,180,26.1516,93.9583,3,4,5
+378,Rajasthani,Pyaaz Ki Kachori,Veg,145,27.0238,74.2176,4,1,3
+379,Bengali,Mutton Curry,Non-Veg,190,22.5697,88.3690,4,3,4
+380,Punjabi,Rajma,Non-Veg,175,30.9009,75.8573,5,1,2
+381,South Indian,Kootu,Veg,130,13.0827,80.2707,4,1,3
+382,Continental,Vegetable Stir Fry,Veg,95,51.5074,-0.1278,4,1,1
+383,North Indian,Biryani,Non-Veg,200,28.4595,77.0266,5,2,5
+384,Chinese,Chow Mein,Non-Veg,155,34.0522,118.2437,3,2,4
+385,Gujarati,Dhokli Sabzi,Veg,140,22.3072,72.3271,5,1,3
+386,North-East,Assamese Fish Curry,Non-Veg,190,26.1516,93.9583,4,3,5
+387,Rajasthani,Dal Baati Churma,Veg,200,27.0238,74.2176,5,1,3
+388,Bengali,Shorshe Ilish,Non-Veg,185,22.5697,88.3690,4,3,4
+389,Punjabi,Biryani,Non-Veg,200,30.9009,75.8573,5,2,5
+390,South Indian,Upma,Veg,175,13.0827,80.2707,4,1,2
+391,Continental,Caesar Salad,Veg,90,51.5074,-0.1278,4,1,1
+392,North Indian,Chole,Veg,150,28.4595,77.0266,5,1,3
+393,Chinese,Kung Pao Chicken,Non-Veg,160,34.0522,118.2437,4,2,5
+394,Gujarati,Undhiyu,Veg,180,22.3072,72.3271,5,1,3
+395,North-East,Thukpa,Non-Veg,130,26.1516,93.9583,3,2,4
+396,Rajasthani,Gulab Jamun,Veg,160,27.0238,74.2176,5,1,1
+397,Bengali,Aloo Bhaja,Veg,150,22.5697,88.3690,4,1,2
+398,Punjabi,Sarson Da Saag,Veg,180,30.9009,75.8573,5,1,3
+399,South Indian,Dosa,Veg,200,13.0827,80.2707,5,1,2
+400,Continental,Stuffed Mushrooms,Veg,80,51.5074,-0.1278,4,1,1
+401,North Indian,Methi Chicken,Non-Veg,175,28.4595,77.0266,4,1,5
+402,Chinese,Sweet Chili Shrimp,Non-Veg,190,34.0522,118.2437,4,2,4
+403,Gujarati,Khandvi,Veg,130,22.3072,72.3271,5,1,2
+404,North-East,Silkworms,Non-Veg,110,26.1516,93.9583,3,5,5
+405,Rajasthani,Mawa Cake,Veg,145,27.0238,74.2176,5,1,3
+406,Bengali,Chingri Bhorta,Veg,180,22.5697,88.3690,4,2,3
+407,Punjabi,Pani Puris,Veg,195,30.9009,75.8573,4,1,3
+408,South Indian,Ragi Mudde,Veg,140,13.0827,80.2707,5,1,2
+409,Continental,Garlic Bread,Veg,100,51.5074,-0.1278,4,1,1
+410,North Indian,Kebabs,Non-Veg,175,28.4595,77.0266,3,2,5
+411,Chinese,Spring Rolls,Veg,160,34.0522,118.2437,4,1,3
+412,Gujarati,Chaas,Veg,130,22.3072,72.3271,5,1,1
+413,North-East,Akharots,Non-Veg,100,26.1516,93.9583,3,2,4
+414,Rajasthani,Ker Sangri,Non-Veg,155,27.0238,74.2176,4,1,2
+415,Bengali,Pitha,Veg,160,22.5697,88.3690,5,1,1
+416,Punjabi,Gobhi Masala,Veg,175,30.9009,75.8573,5,1,3
+417,South Indian,Pongal,Veg,190,13.0827,80.2707,4,1,2
+418,Continental,Macaroni and Cheese,Veg,85,51.5074,-0.1278,4,1,1
+419,North Indian,Paneer Tikka,Veg,190,28.4595,77.0266,5,1,4
+420,Chinese,Dumplings,Non-Veg,150,34.0522,118.2437,4,2,5
+421,Gujarati,Daal Vada,Veg,130,22.3072,72.3271,5,1,3
+422,North-East,Masor Tenga,Non-Veg,160,26.1516,93.9583,3,4,5
+423,Rajasthani,Churma,Non-Veg,145,27.0238,74.2176,5,1,2
+424,Bengali,Muri Ghonto,Veg,170,22.5697,88.3690,4,3,3
+425,Punjabi,Saag Aloo,Veg,190,30.9009,75.8573,5,1,2
+426,South Indian,Curd Rice,Veg,145,13.0827,80.2707,4,1,2
+427,Continental,Baked Ziti,Veg,90,51.5074,-0.1278,4,1,1
+428,North Indian,Rogan Josh,Non-Veg,175,28.4595,77.0266,5,2,5
+429,Chinese,Beef Chow Fun,Non-Veg,200,34.0522,118.2437,4,2,5
+430,Gujarati,Patra,Veg,140,22.3072,72.3271,4,1,3
+431,North-East,Thukpa,Non-Veg,180,26.1516,93.9583,3,3,4
+432,Rajasthani,Pyaaz Kachori,Veg,160,27.0238,74.2176,5,1,3
+433,Bengali,Chingri Macher Jhol,Non-Veg,185,22.5697,88.3690,4,3,4
+434,Punjabi,Paneer Tikka Masala,Veg,200,30.9009,75.8573,5,1,4
+435,South Indian,Bisi Bele Bath,Veg,150,13.0827,80.2707,4,1,2
+436,Continental,Lentil Soup,Veg,85,51.5074,-0.1278,4,1,1
+437,North Indian,Aloo Tikki,Veg,175,28.4595,77.0266,5,1,3
+438,Chinese,Mapo Tofu,Veg,160,34.0522,118.2437,4,1,4
+439,Gujarati,Handvo,Veg,140,22.3072,72.3271,4,1,2
+440,North-East,Bamboo Shoot Curry,Veg,130,26.1516,93.9583,3,2,5
+441,Rajasthani,Gatte Ki Sabzi,Veg,160,27.0238,74.2176,5,1,3
+442,Bengali,Chingri Bhapa,Veg,180,22.5697,88.3690,4,3,3
+443,Punjabi,Bakarkhani,Veg,200,30.9009,75.8573,5,1,1
+444,South Indian,Aloo Masala,Veg,130,13.0827,80.2707,4,1,2
+445,Continental,Cheesy Garlic Bread,Veg,95,51.5074,-0.1278,4,1,1
+446,North Indian,Samosa,Veg,190,28.4595,77.0266,5,1,3
+447,Chinese,Orange Chicken,Non-Veg,200,34.0522,118.2437,4,2,5
+448,Gujarati,Sev Khaman,Veg,155,22.3072,72.3271,5,1,2
+449,North-East,Raja Mircha,Non-Veg,145,26.1516,93.9583,3,4,5
+450,Rajasthani,Poori,Non-Veg,150,27.0238,74.2176,5,1,2
+451,Bengali,Doi Maach,Non-Veg,175,22.5697,88.3690,4,2,4
+452,Punjabi,Lassi,Veg,190,30.9009,75.8573,5,1,1
+453,South Indian,Idli,Veg,145,13.0827,80.2707,4,1,2
+454,Continental,Beef Stew,Non-Veg,120,51.5074,-0.1278,3,2,4
+455,North Indian,Tandoori Chicken,Non-Veg,185,28.4595,77.0266,5,2,5
+456,Chinese,Chicken Fried Rice,Non-Veg,170,34.0522,118.2437,4,1,4
+457,Gujarati,Dhokla,Veg,155,22.3072,72.3271,5,1,3
+458,North-East,Masoor Dal,Non-Veg,130,26.1516,93.9583,3,2,4
+459,Rajasthani,Ker Sangri,Non-Veg,145,27.0238,74.2176,5,1,2
+460,Bengali,Chingri Macher Malai Curry,Non-Veg,200,22.5697,88.3690,5,1,4
+461,Punjabi,Chole Bhature,Veg,195,30.9009,75.8573,5,1,3
+462,South Indian,Vada,Veg,175,13.0827,80.2707,4,1,2
+463,Continental,Chicken Caesar Wrap,Non-Veg,85,51.5074,-0.1278,4,1,1
+464,North Indian,Kofta Curry,Veg,160,28.4595,77.0266,5,1,3
+465,Chinese,Chili Garlic Noodles,Veg,145,34.0522,118.2437,4,1,3
+466,Gujarati,Surati Locho,Veg,140,22.3072,72.3271,5,1,2
+467,North-East,Dainthlen,Non-Veg,130,26.1516,93.9583,3,2,5
+468,Rajasthani,Dal Churma,Veg,190,27.0238,74.2176,5,1,3
+469,Bengali,Shorshe Ilish,Non-Veg,185,22.5697,88.3690,4,3,5
+470,Punjabi,Gobhi Paratha,Veg,200,30.9009,75.8573,5,1,3
+471,South Indian,Chutney,Veg,155,13.0827,80.2707,4,1,1
+472,Continental,Quiche,Veg,90,51.5074,-0.1278,4,1,1
+473,North Indian,Rajma,Veg,160,28.4595,77.0266,5,1,2
+474,Chinese,Fried Rice,Non-Veg,190,34.0522,118.2437,4,2,4
+475,Gujarati,Kadhi,Veg,130,22.3072,72.3271,5,1,3
+476,North-East,Aloo Pitika,Veg,140,26.1516,93.9583,4,1,2
+477,Rajasthani,Paneer Gatta,Non-Veg,180,27.0238,74.2176,5,1,3
+478,Bengali,Chingri Malai Curry,Non-Veg,195,22.5697,88.3690,4,3,5
+479,Punjabi,Daal Makhani,Veg,200,30.9009,75.8573,5,1,3
+480,South Indian,Rasam,Veg,155,13.0827,80.2707,4,1,2
+481,Continental,Beef Lasagna,Non-Veg,80,51.5074,-0.1278,4,1,1
+482,North Indian,Chicken Biryani,Non-Veg,190,28.4595,77.0266,5,2,5
+483,Chinese,Vegetable Lo Mein,Veg,200,34.0522,118.2437,4,1,3
+484,Gujarati,Sev Usal,Veg,130,22.3072,72.3271,5,1,2
+485,North-East,Bamboo Rice,Veg,140,26.1516,93.9583,3,1,4
+486,Rajasthani,Gatte Ki Sabzi,Non-Veg,150,27.0238,74.2176,5,1,2
+487,Bengali,Macher Jhol,Non-Veg,175,22.5697,88.3690,4,2,3
+488,Punjabi,Kadi Pakoda,Veg,190,30.9009,75.8573,5,1,3
+489,South Indian,Tomato Rice,Veg,145,13.0827,80.2707,4,1,2
+490,Continental,Sushi,Non-Veg,90,51.5074,-0.1278,4,1,1
+491,North Indian,Palak Paneer,Veg,175,28.4595,77.0266,5,1,3
+492,Chinese,Chili Chicken,Non-Veg,160,34.0522,118.2437,4,2,5
+493,Gujarati,Chutney,Non-Veg,140,22.3072,72.3271,4,1,3
+494,North-East,Chura,Non-Veg,150,26.1516,93.9583,3,1,4
+495,Rajasthani,Bajra Khichdi,Veg,165,27.0238,74.2176,5,1,3
+496,Bengali,Chingri Bhapa,Non-Veg,180,22.5697,88.3690,4,3,4
+497,Punjabi,Lassi,Veg,200,30.9009,75.8573,5,1,1
+498,South Indian,Vegetable Sambar,Veg,145,13.0827,80.2707,4,1,2
+499,Continental,Cobb Salad,Veg,100,51.5074,-0.1278,4,1,1
+500,North Indian,Paneer Butter Masala,Veg,190,28.4595,77.0266,5,1,4
+
